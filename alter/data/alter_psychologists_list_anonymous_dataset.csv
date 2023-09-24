@@ -1,0 +1,752 @@
+,city,city_details,experience,private_experience,alter_experience,sex,age,marital_status,has_children,allow_time_request,experimentGroup,working_with.family,working_with.adults,working_with.lgbt,working_with.believer,working_with.fem,working_with.foreigner,working_with.elderly,education_count,competences_count,methods_count,expertise_count,features_of_work_count,price
+0,Москва,,7,9,1,F,31.0,single,False,True,False,False,True,False,False,False,False,False,4,7,1,1,9,4500
+1,Санкт-Петербург,м. Петроградская,3,6,1,F,36.0,single,True,True,False,False,True,False,False,False,False,False,4,10,2,4,15,3500
+2,Москва,м. Динамо / Петровский парк,3,5,1,F,44.0,married,True,True,False,True,True,False,True,False,False,True,12,12,5,5,17,5000
+3,Москва,,12,12,4,F,34.0,married,True,True,False,False,True,True,False,False,False,False,12,4,1,8,20,6000
+4,Новосибирск,,8,7,3,F,48.0,married,False,True,False,False,True,False,False,False,False,False,5,3,1,4,10,3500
+5,Краснодар,Центральный,10,11,3,F,36.0,single,False,True,False,False,True,True,False,False,False,False,9,4,1,5,14,3900
+6,Москва,м. Белорусская,12,0,0,F,34.0,married,True,True,True,False,True,False,False,False,False,False,4,4,2,1,13,12000
+7,Самара,Район Губернского рынка,7,6,2,F,51.0,married,True,True,False,False,True,False,False,False,False,True,4,5,1,6,8,4200
+8,Москва,,8,8,1,M,36.0,married,False,True,False,False,True,False,False,False,False,False,15,4,3,5,16,8650
+9,Москва,м. Краснопресненская / Баррикадная,10,9,4,F,31.0,married,False,True,False,False,True,False,False,True,False,False,6,4,1,1,5,3500
+10,Пятигорск,,5,7,2,F,27.0,single,False,True,False,False,True,False,False,False,False,False,9,16,3,4,11,3000
+11,Санкт-Петербург,м. Спортивная,6,5,2,M,31.0,single,,True,False,False,True,True,False,False,False,False,7,4,1,7,11,5000
+12,Херцег-Нови,,8,0,0,F,31.0,married,True,True,False,False,True,True,False,False,False,True,15,4,2,5,15,6000
+13,Нижний Новгород,,5,0,0,F,26.0,single,False,True,False,False,True,False,False,False,False,False,11,4,1,1,18,4000
+14,Москва,м. Боровицкая,5,5,2,F,51.0,,,True,True,True,True,False,True,False,False,True,9,4,2,2,12,6000
+15,Москва,м. Аэропорт,17,17,4,,,,,True,False,False,True,True,False,False,False,False,6,5,2,6,19,6000
+16,Москва,м. Чистые пруды / Красные ворота,5,0,0,F,37.0,,,False,False,False,True,False,False,False,False,False,4,4,1,1,9,5000
+17,Москва,м. Краснопресненская,10,13,1,F,53.0,married,True,True,False,False,True,False,False,False,False,False,12,8,4,4,6,6000
+18,Сочи,,8,7,2,M,42.0,married,True,True,False,False,True,True,False,False,False,False,5,4,1,2,12,4444
+19,Санкт-Петербург,м. Владимирская,3,8,0,F,41.0,married,False,True,False,False,True,False,False,False,False,False,2,4,1,3,13,3500
+20,Москва,м. Полянка / Октябрьская,3,0,0,F,25.0,married,False,True,True,False,True,False,False,False,False,False,6,4,2,5,13,5000
+21,Ростов-на-Дону,,19,25,3,F,58.0,married,True,True,False,True,True,True,False,False,False,True,8,18,2,2,15,4000
+22,Батуми,,13,7,2,F,39.0,married,True,True,False,False,True,False,False,False,False,True,3,4,2,2,12,3500
+23,Санкт-Петербург,м. Василеостровская,7,15,1,F,37.0,married,True,True,False,False,True,True,False,False,False,True,5,4,2,4,9,5000
+24,Краснодар,,7,6,0,F,36.0,married,True,True,False,False,True,True,False,False,False,False,6,8,3,2,10,3500
+25,Санкт-Петербург,м. Петроградская,6,5,2,F,42.0,single,True,True,True,False,True,True,False,True,False,False,6,4,1,2,14,4500
+26,Москва,"Тверская, Таганская, Курская",5,5,3,F,40.0,single,True,True,False,True,True,False,False,False,False,False,6,4,2,1,12,2000
+27,Москва,м. Полянка,9,10,3,F,44.0,single,True,True,False,False,True,False,False,False,False,True,7,23,2,9,17,5000
+28,Нижний Новгород,,4,0,0,M,40.0,married,True,True,False,False,True,False,False,False,False,True,4,4,1,5,17,2220
+29,Уфа,ост. Кондитерская фабрика,4,0,0,F,27.0,single,False,True,False,False,True,True,False,False,False,False,11,4,1,3,10,3000
+30,Москва,,5,3,2,F,53.0,married,True,True,True,False,True,False,False,False,False,False,4,4,1,5,6,5000
+31,Санкт-Петербург,м. Сенная,16,12,2,F,44.0,,,True,False,False,True,True,False,False,False,True,4,4,1,2,4,4000
+32,Москва,м. Сухаревская,4,4,3,M,37.0,married,True,True,False,False,True,False,False,False,False,False,15,4,2,7,18,3500
+33,Казань,,8,13,1,M,43.0,married,True,True,False,False,True,False,False,True,False,False,8,4,1,2,8,2790
+34,Санкт-Петербург,,5,9,2,F,44.0,married,True,True,False,True,True,True,False,False,False,False,15,4,1,5,10,2400
+35,Москва,м. Полянка / Октябрьская,4,5,2,F,33.0,single,False,True,False,False,True,False,False,False,False,False,5,3,1,3,12,3500
+36,Санкт-Петербург,м. Чернышевская,6,0,0,M,37.0,married,True,True,False,False,True,False,False,False,False,False,15,8,1,2,14,5500
+37,Москва,м. Тверская,8,2,1,M,48.0,single,True,True,True,False,True,True,False,False,False,True,4,4,2,4,13,2500
+38,Санкт-Петербург,м. Сенная,21,25,0,M,52.0,married,True,True,False,False,True,False,True,False,False,False,8,4,2,7,12,5000
+39,Москва,м. Менделеевская,7,3,3,F,35.0,married,True,True,False,False,True,True,False,False,False,False,5,4,2,1,10,3700
+40,Санкт-Петербург,м. Горьковская; м. Невский проспект,15,15,3,F,49.0,married,True,True,False,False,True,False,False,False,False,False,11,4,1,1,13,4500
+41,Москва,м. Белорусская,14,15,3,F,55.0,married,True,True,False,False,True,False,False,False,False,True,8,9,1,3,17,4000
+42,Москва,м. Белорусская,4,0,0,F,32.0,single,False,True,True,False,True,True,False,False,False,False,5,4,1,2,12,3500
+43,Москва,м. Площадь Ильича,24,3,3,F,55.0,,True,True,False,True,True,False,False,False,False,False,6,8,2,4,15,3000
+44,Москва,м. Таганская,9,0,0,M,39.0,single,False,True,False,False,True,False,False,False,False,True,4,3,1,4,5,5000
+45,Москва,м. Проспект Вернадского,1,4,0,M,37.0,married,False,True,False,True,True,True,False,False,False,False,5,5,3,4,21,4900
+46,Санкт-Петербург,м. Фрунзенская,7,0,0,F,35.0,married,True,True,False,True,True,True,False,True,False,False,10,4,3,4,12,4000
+47,Москва,м. Павелецкая,15,0,0,F,45.0,single,True,True,False,False,True,True,False,False,False,True,23,4,3,5,18,6000
+48,Москва,м. Менделеевская,8,0,0,M,29.0,single,False,True,False,False,True,True,False,False,False,True,6,3,1,0,0,4000
+49,Москва,,5,5,1,F,30.0,,False,True,True,False,True,True,False,True,False,False,5,6,1,3,5,2500
+50,Москва,м. Бауманская,8,8,1,F,47.0,married,False,True,False,True,True,True,False,False,False,True,12,3,1,1,9,4500
+51,Санкт-Петербург,м. Чернышевская,8,8,3,M,40.0,married,True,True,False,False,True,False,False,True,False,False,8,4,3,3,14,4500
+52,Уфа,,26,26,1,M,52.0,married,,True,True,False,True,True,False,False,False,True,5,4,1,5,13,5040
+53,Санкт-Петербург,,11,0,0,F,37.0,married,True,True,False,False,True,True,False,False,False,False,5,3,1,3,16,4000
+54,Санкт-Петербург,м. Петроградская,10,0,0,F,41.0,married,True,True,False,False,True,False,False,False,False,False,7,7,2,5,9,6000
+55,Москва,м. Сретенский бульвар / Тургеневская / Чистые пруды,7,7,3,F,29.0,single,False,True,False,False,True,True,False,False,False,False,17,4,3,2,10,8000
+56,Москва,,10,11,2,F,41.0,married,False,True,False,True,True,False,False,False,False,False,6,4,1,1,7,4000
+57,Симферополь,,4,7,1,F,49.0,single,True,True,True,False,True,False,False,False,False,True,2,4,1,2,14,3250
+58,Москва,,2,0,0,F,39.0,married,True,True,False,True,True,False,False,False,False,False,4,13,4,1,15,1800
+59,Санкт-Петербург,м. Петроградская,15,0,0,F,56.0,married,True,True,False,True,True,True,False,False,False,False,7,7,1,3,7,4500
+60,Екатеринбург,,15,14,1,F,45.0,,,True,False,False,True,True,False,False,False,False,19,4,1,2,6,5000
+61,Санкт-Петербург,м. Площадь Восстания,17,0,0,F,40.0,single,True,True,False,False,True,False,False,False,False,True,13,4,1,3,12,5000
+62,Хайфа,,9,0,0,F,38.0,single,True,True,False,False,True,False,False,False,False,False,7,10,2,6,14,7100
+63,Санкт-Петербург,м. Сенная площадь; м. Лесная,8,7,3,F,52.0,married,True,True,False,False,True,False,False,False,False,True,9,4,1,2,14,3300
+64,Краснодар,,3,0,0,M,46.0,single,True,True,False,True,True,False,False,False,False,False,7,13,2,6,14,4000
+65,Санкт-Петербург,м. пл.Восстания,17,0,0,F,38.0,,False,True,False,True,True,True,False,False,False,False,6,4,2,5,14,4500
+66,Москва,м. Белорусская,4,4,1,F,41.0,married,True,True,False,True,True,False,False,False,False,False,7,4,2,0,14,6000
+67,Москва,м. Новые Черемушки,11,11,4,F,42.0,married,False,True,False,False,True,False,False,False,False,False,3,3,1,2,16,8000
+68,Москва,,2,0,0,F,44.0,married,True,True,True,False,True,False,False,False,False,True,2,4,1,5,10,2200
+69,Москва,,8,12,1,F,46.0,married,True,True,True,False,True,False,False,False,False,False,6,4,1,0,6,3030
+70,Москва,,7,17,1,F,,,,True,False,True,True,False,False,False,False,False,2,4,1,4,6,5000
+71,Санкт-Петербург,м. Обводный канал,6,0,0,F,32.0,single,False,True,False,True,True,True,False,False,False,True,7,4,2,6,9,8000
+72,Москва,м. Пушкинская / Тверская / Чеховская,10,0,0,F,38.0,married,True,True,False,False,True,False,False,False,False,False,2,4,1,3,15,5000
+73,Москва,м. Новокузнецкая / Третьяковская,9,0,0,F,43.0,,True,True,False,False,True,True,False,False,False,False,7,11,3,4,9,5500
+74,Москва,м. Таганская,5,6,1,F,,,,True,False,False,True,False,False,False,False,False,3,4,1,2,7,5580
+75,Санкт-Петербург,м. Дыбенко,5,0,0,M,36.0,single,False,True,False,False,True,False,False,False,False,False,4,4,2,5,9,3000
+76,Калининград,,8,9,5,F,39.0,married,True,True,False,False,True,True,False,False,False,False,22,4,4,5,17,5000
+77,Москва,м. Чистые пруды,7,0,0,F,45.0,single,False,True,True,False,True,True,False,False,False,True,13,4,1,2,10,4500
+78,Москва,м. Белорусская,8,10,1,F,46.0,married,True,False,False,True,True,True,False,False,False,False,7,4,3,1,9,5000
+79,Ростов-на-Дону,,2,4,0,F,38.0,single,False,True,False,False,True,False,True,False,False,False,2,8,1,4,17,2000
+80,Москва,,6,0,0,F,35.0,married,,True,False,False,True,False,False,False,False,False,8,4,1,1,7,4500
+81,Москва,м. Тверская,9,0,0,F,59.0,single,True,True,False,False,True,True,False,False,False,False,7,4,1,2,10,5000
+82,Москва,м. Динамо,17,17,4,F,55.0,married,True,True,False,False,True,False,False,False,False,True,3,7,4,3,6,3500
+83,Москва,м. Краснопресненская,16,13,3,F,38.0,,,True,False,False,True,True,False,False,False,True,4,4,1,4,15,5500
+84,Москва,,5,5,1,F,39.0,married,True,True,False,False,True,False,False,False,False,True,9,4,2,2,14,3000
+85,Москва,м. Цветной Бульвар / Трубная,14,0,0,F,42.0,married,True,True,True,False,True,False,False,False,False,False,6,4,1,4,7,5000
+86,Москва,,21,21,2,F,54.0,single,True,True,False,False,True,False,False,False,False,False,6,4,2,2,11,3000
+87,Подольск,Московская обл.,9,0,0,F,40.0,married,,True,True,False,True,False,False,False,False,False,5,4,1,0,14,5200
+88,Санкт-Петербург,м. Обводный Канал,7,7,2,F,29.0,single,False,True,False,False,True,True,False,False,False,False,8,4,2,3,15,3600
+89,Ставрополь,,19,19,2,F,,,,True,False,False,True,True,False,False,False,False,9,4,1,5,10,2000
+90,Санкт-Петербург,,1,3,1,F,25.0,single,,True,False,False,True,True,False,False,False,True,8,7,2,0,5,2200
+91,Москва,м. Театральная / Охотный ряд,6,3,1,F,39.0,single,False,True,True,False,True,False,False,False,False,False,6,4,2,3,9,4500
+92,Москва,м. Кропоткинская / Арбатская / Боровицкая,5,5,2,M,28.0,single,False,True,False,False,True,True,False,True,False,False,5,8,2,3,6,5000
+93,Москва,м. Третьяковская,4,5,0,F,45.0,married,True,True,False,False,True,False,False,False,False,False,3,4,1,4,16,4300
+94,Москва,м. Таганская,3,3,1,F,25.0,single,False,True,False,False,True,True,False,False,False,False,10,3,2,2,13,4100
+95,Москва,м. Тверская,10,13,1,F,54.0,married,True,True,False,True,True,False,False,False,False,False,8,4,1,1,10,4500
+96,Москва,м. Таганская,10,0,0,F,34.0,,False,True,False,False,True,True,False,False,False,False,4,4,1,2,9,4700
+97,Москва,,4,5,1,F,35.0,married,,True,False,True,True,True,False,False,False,True,5,3,1,6,12,6700
+98,Санкт-Петербург,м. Гостиный двор / Маяковская,4,4,1,M,32.0,married,True,True,False,False,True,True,False,False,False,False,3,10,2,3,8,3200
+99,Санкт-Петербург,м. Фрунзенская,16,13,3,M,38.0,married,False,True,False,False,True,False,False,False,False,False,8,4,1,2,14,5500
+100,Москва,м. Кропоткинская,8,8,3,F,36.0,single,True,True,False,False,True,True,False,False,False,False,9,7,1,4,11,7000
+101,Курск,,9,0,0,F,42.0,married,False,True,True,False,True,True,False,False,False,True,4,4,1,3,11,4600
+102,Мурманск,,9,13,0,F,47.0,married,True,True,False,True,True,True,False,False,False,False,6,7,1,5,12,6500
+103,Москва,,5,0,0,F,,single,False,False,False,False,True,False,False,False,False,False,10,4,3,1,13,4000
+104,Санкт-Петербург,м. Невский проспект / Гостиный двор,10,0,0,F,65.0,,,True,False,False,True,False,False,False,False,True,6,3,2,1,19,3200
+105,Москва,м. Менделеевская,8,0,0,F,35.0,single,False,True,False,False,True,True,False,False,False,False,5,4,1,3,16,5760
+106,Санкт-Петербург,м. Площадь Восстания,16,13,4,F,38.0,single,True,True,False,False,True,False,False,False,False,False,2,31,1,2,14,3000
+107,Уфа,,11,12,3,F,46.0,married,False,True,False,False,True,True,False,False,False,False,4,4,2,6,12,2500
+108,Москва,м. Китай-Город,3,5,1,F,36.0,single,False,True,False,False,True,False,False,False,False,False,7,9,3,7,12,5000
+109,Москва,м. Курская,9,8,2,F,31.0,married,False,True,False,False,True,False,False,False,False,False,9,4,2,7,14,6000
+110,Санкт-Петербург,м. Чернышевская,10,9,2,F,40.0,married,True,True,True,True,True,True,False,False,False,True,5,4,1,5,11,5500
+111,Москва,,4,7,1,F,37.0,married,True,True,False,False,True,False,False,False,False,False,4,4,1,1,6,3880
+112,Мюнхен,,6,6,3,M,27.0,,False,True,False,False,True,True,False,False,False,False,25,4,2,6,20,6500
+113,Москва,,5,5,1,F,35.0,married,True,True,False,False,True,True,False,False,False,False,30,4,7,2,5,6500
+114,Москва,м. Третьяковская,10,8,3,F,30.0,single,False,True,False,True,True,True,False,True,False,False,10,4,2,1,15,5500
+115,Москва,м. Белорусская,5,7,2,F,41.0,married,True,True,False,False,True,False,False,False,False,False,5,4,1,4,7,6000
+116,Москва,,5,5,1,F,40.0,married,True,True,False,False,True,False,False,False,False,False,9,3,2,2,9,2850
+117,Москва,м. Китай-Город,5,0,0,F,43.0,married,True,True,False,False,True,False,False,False,False,True,6,4,2,5,9,4000
+118,Москва,м. Таганская,7,0,0,M,35.0,married,,True,False,False,True,False,False,False,False,True,6,4,3,3,4,5000
+119,Москва,м. Парк культуры,20,10,2,F,52.0,single,True,True,True,False,True,False,False,False,False,True,2,3,1,5,12,5000
+120,Алматы,,4,5,2,F,26.0,married,False,True,False,False,True,True,False,False,False,False,20,4,1,2,17,5000
+121,Санкт-Петербург,м. Петроградская,8,6,3,F,,,,True,False,True,True,False,False,False,False,False,5,4,1,7,15,5000
+122,Санкт-Петербург,м. Владимирская / Достоевская / Звенигородская,14,15,4,F,50.0,married,True,True,False,False,True,False,False,False,False,False,10,4,2,3,12,4000
+123,Реховот,,8,7,3,F,31.0,married,True,True,False,False,True,False,False,False,False,False,8,4,1,6,16,4800
+124,Москва,,7,6,3,F,30.0,single,False,True,False,False,True,True,False,False,False,False,9,5,2,2,12,5500
+125,Санкт-Петербург,,7,7,1,F,37.0,,False,True,False,True,True,True,False,False,False,False,4,4,1,8,8,4500
+126,Москва,,10,14,2,F,41.0,single,True,True,True,False,True,False,False,False,False,False,2,4,1,5,11,4000
+127,Москва,м. Краснопресненская,9,10,2,F,48.0,married,,True,True,True,True,True,False,False,False,True,4,4,1,4,11,5000
+128,Москва,м. Таганская,4,6,4,F,42.0,,,True,False,False,True,False,False,False,False,True,7,12,1,4,14,4000
+129,Санкт-Петербург,м. Петроградская,15,15,4,F,,,,True,False,False,True,True,False,False,False,True,9,3,1,5,9,7000
+130,Санкт-Петербург,м. Достоевская,21,22,1,F,54.0,married,True,True,False,True,True,True,False,False,False,False,6,4,1,5,19,4320
+131,Москва,м. Китай-город,10,10,3,M,32.0,single,False,True,False,False,True,True,False,True,False,True,8,6,1,4,9,3600
+132,Москва,м. Лубянка; м. Чистые пруды / Тургеневская,7,6,2,M,30.0,married,False,True,False,False,True,False,False,False,False,True,7,3,2,5,16,5500
+133,Краснодар,,5,5,2,M,39.0,,,True,False,False,True,True,False,False,False,False,4,3,2,6,9,4500
+134,Москва,Воробьевы Горы,10,10,2,F,33.0,married,,True,False,False,True,False,False,False,False,True,15,4,2,2,13,5000
+135,Москва,м. Пятницкое Шоссе,4,6,3,F,27.0,single,False,False,False,False,True,False,False,False,False,False,8,4,2,3,15,5000
+136,Москва,м. Новослободская / Менделеевская,13,0,0,F,37.0,married,False,True,True,False,True,True,False,False,False,False,7,4,1,6,9,6480
+137,Москва,м. Чистые пруды / Тургеневская / Сретенский бульвар,6,6,3,F,32.0,married,False,True,False,False,True,True,False,False,False,False,17,6,3,1,15,7000
+138,Батуми,,10,0,0,F,,,,True,False,False,True,True,False,False,False,False,3,3,1,1,6,4500
+139,Москва,,6,6,0,F,31.0,single,False,True,False,False,True,False,False,False,False,False,5,4,1,6,14,5000
+140,Усть-Каменогорск,,7,7,1,F,47.0,married,True,True,False,True,True,True,False,False,False,True,5,8,1,5,17,3000
+141,Барнаул,,15,11,2,F,44.0,married,True,True,False,False,True,True,False,False,False,False,10,4,2,4,15,2500
+142,Москва,м. Китай-Город / Чистые Пруды,8,0,0,F,40.0,,,True,False,False,True,False,False,False,False,False,4,4,2,2,12,4000
+143,Санкт-Петербург,,6,0,0,F,40.0,,,True,False,False,True,False,False,False,False,True,3,4,1,2,11,3000
+144,Казань,,2,0,0,F,37.0,,False,True,False,False,True,False,False,False,False,False,6,4,1,0,12,2800
+145,Санкт-Петербург,,3,6,1,F,30.0,married,False,True,True,False,True,True,False,False,False,True,4,4,1,5,10,3500
+146,Москва,м. Чеховская / Пушкинская / Тверская,5,6,3,F,64.0,,,True,True,False,True,False,False,False,False,False,4,3,2,1,11,3500
+147,Краснодар,Фестивальный микрорайон,11,0,0,F,45.0,married,False,True,True,False,True,False,False,False,False,False,3,8,2,6,7,3500
+148,Москва,м. Таганская,6,0,0,F,58.0,married,True,True,False,False,True,True,False,False,False,False,6,3,1,1,4,3500
+149,Москва,Зеленоград,20,20,4,F,72.0,married,True,True,False,False,True,False,False,False,False,True,21,4,1,7,18,5500
+150,Москва,м. Пушкинская,4,3,1,F,26.0,single,False,True,False,False,True,True,False,True,False,False,10,4,3,2,15,6000
+151,Санкт-Петербург,м. Петроградская,7,4,2,F,37.0,,,True,False,True,True,False,False,False,False,True,5,16,1,8,15,3000
+152,Санкт-Петербург,,2,4,0,F,42.0,married,True,True,False,False,True,False,False,False,False,False,2,4,1,3,8,2200
+153,Санкт-Петербург,м. Невский проспект,4,6,0,F,36.0,single,,True,True,False,True,False,False,False,False,False,5,6,1,3,10,2500
+154,Самара,,6,9,1,F,49.0,single,True,True,False,True,True,False,False,False,False,True,5,4,2,5,15,3300
+155,Санкт-Петербург,м. Технологический институт / Пушкинская,5,6,0,F,53.0,married,True,True,False,True,True,False,False,False,False,True,5,4,1,5,15,4000
+156,Москва,м. Пушкинская / Чеховская,2,0,0,F,42.0,married,True,False,True,False,True,False,False,False,False,False,5,4,2,2,9,2200
+157,Пермь,,6,6,1,F,40.0,married,False,True,False,False,True,False,False,False,False,True,5,4,1,4,13,2500
+158,Санкт-Петербург,м. Площадь Восстания,9,10,3,F,45.0,married,True,True,False,True,True,False,False,False,False,True,5,4,2,2,12,5500
+159,Санкт-Петербург,м. Площадь Ленина,8,0,0,M,49.0,single,True,True,False,False,True,False,False,False,False,False,6,4,1,5,12,8000
+160,Краснодар,,6,16,3,F,38.0,married,True,True,False,False,True,False,False,False,False,False,10,4,3,4,20,5000
+161,Москва,м. Пушкинская / Тверская / Чеховская,7,0,0,M,35.0,,,True,False,False,True,False,False,False,False,False,3,4,2,5,7,7000
+162,Санкт-Петербург,м. Василеостровская,10,0,0,F,40.0,married,True,False,False,False,True,False,False,False,False,False,8,4,1,3,10,4000
+163,Санкт-Петербург,м. Академическая,12,12,4,F,43.0,married,True,True,False,True,True,True,False,True,False,True,9,3,1,6,9,6000
+164,Санкт-Петербург,,2,3,1,F,42.0,,,True,False,False,True,False,False,False,False,False,2,4,1,3,9,2700
+165,Москва,м. Трубная,4,4,1,F,27.0,single,,True,False,False,True,True,False,False,False,False,7,4,3,0,7,5000
+166,Санкт-Петербург,,4,4,1,F,38.0,single,False,True,True,False,True,True,False,False,False,True,7,13,4,6,13,4500
+167,Москва,м. Баррикадная / Краснопресненская,6,6,1,F,32.0,,,True,False,False,True,False,False,False,False,False,4,4,1,5,6,3500
+168,Москва,м. Третьяковская / Новокузнецкая,2,0,0,F,36.0,married,False,True,False,True,True,True,False,True,False,True,9,4,2,1,5,2200
+169,Москва,м. Менделеевская / Новослободская,13,12,2,F,44.0,,True,True,False,False,True,False,False,False,False,False,13,4,3,2,13,8000
+170,Москва,м. Маяковская,14,14,3,M,36.0,,True,True,False,False,True,True,False,False,False,False,10,4,1,3,7,7000
+171,Москва,м. Краснопресненская,3,0,0,M,43.0,married,False,True,True,False,True,False,True,False,False,False,6,8,2,7,15,4000
+172,Санкт-Петербург,м. Черная речка,5,5,2,M,40.0,married,True,True,False,False,True,False,False,False,False,True,8,8,1,3,11,5000
+173,Симферополь,,11,0,0,F,48.0,single,True,True,False,True,True,True,False,False,False,False,7,4,1,5,13,5000
+174,Тула,,7,0,0,F,36.0,,,True,False,False,True,False,False,False,False,False,3,3,2,0,7,4000
+175,Санкт-Петербург,м. Сенная / Василеостровская,11,0,0,M,60.0,married,True,False,False,False,True,True,False,False,False,True,5,4,1,2,7,3500
+176,Новосибирск,,3,0,0,M,39.0,married,True,True,False,True,True,False,True,False,False,False,9,4,1,2,18,3000
+177,Москва,м. Арбатская,8,8,3,F,46.0,married,True,True,False,False,False,False,False,False,False,False,4,19,2,2,11,5500
+178,Красноярск,,13,12,4,F,34.0,married,True,True,False,False,True,False,False,False,False,False,6,4,2,6,18,6000
+179,Санкт-Петербург,м. Горьковская,19,19,3,F,42.0,married,True,True,True,False,True,True,False,False,False,False,7,4,2,3,18,11000
+180,Москва,,5,8,1,M,43.0,married,False,True,True,False,True,True,False,False,False,False,12,4,3,4,12,3250
+181,Москва,м. Славянский бульвар,6,4,2,F,39.0,married,True,True,False,False,True,True,False,False,False,False,6,4,1,2,12,4000
+182,Санкт-Петербург,м. Сенная площадь / Садовая,5,8,1,F,37.0,married,False,True,False,False,True,False,False,False,False,False,3,4,1,5,9,2800
+183,Москва,м. Смоленская,3,3,1,F,27.0,married,,True,False,False,True,True,False,False,False,False,17,4,2,5,11,3500
+184,Москва,,3,0,0,F,29.0,single,False,True,False,False,True,True,True,True,False,True,9,8,2,9,21,5000
+185,Санкт-Петербург,м. Пионерская,5,0,0,F,47.0,married,True,True,True,False,True,False,False,False,False,False,6,4,1,3,13,3200
+186,Москва,м. Менделеевская,6,0,0,F,33.0,married,False,True,False,False,True,False,False,False,False,False,6,4,1,0,9,4500
+187,Санкт-Петербург,м. Чернышевская,20,0,0,M,60.0,married,True,False,False,True,True,False,False,False,False,True,4,4,1,2,13,3000
+188,Москва,м. Китай-город,9,9,4,F,29.0,single,False,True,False,True,True,True,False,False,False,True,12,22,2,8,15,6500
+189,Симферополь,,4,5,1,F,30.0,married,False,True,False,False,True,False,False,False,False,False,5,3,1,1,12,3000
+190,Краснодар,,3,0,0,F,36.0,married,True,True,False,False,True,False,False,False,False,False,8,4,1,1,10,3000
+191,Москва,м. Бауманская,6,7,1,F,28.0,single,False,True,False,False,True,True,False,True,False,False,12,4,1,1,14,5000
+192,Москва,м. Пушкинская / Тверская / Чеховская,14,13,4,F,38.0,married,True,True,False,True,True,False,False,False,False,False,6,4,1,3,12,7000
+193,Москва,,8,8,3,F,35.0,single,False,True,False,True,True,True,False,False,False,True,9,4,1,8,16,4500
+194,Москва,,4,0,0,F,26.0,single,False,True,False,False,True,True,False,False,False,False,14,4,2,0,10,3500
+195,Москва,м.Чеховская / Пушкинская / Тверская,4,6,1,F,32.0,single,False,True,False,False,True,False,False,False,False,False,2,4,1,3,12,3200
+196,Москва,м. Сухаревская,5,4,2,F,33.0,married,True,True,False,False,True,False,False,False,False,False,24,4,3,3,19,5300
+197,Москва,м. Кузнецкий мост,11,17,5,F,57.0,married,True,True,False,True,True,True,False,False,False,False,3,3,1,4,19,5000
+198,Курск,,8,7,1,F,30.0,married,False,True,False,True,True,True,False,False,False,False,5,11,2,3,17,4100
+199,Москва,м. Маяковская / Пушкинская; м. Трубная / Кузнецкий Мост,14,0,4,,,,,True,False,False,True,False,False,False,False,False,4,8,3,2,11,3700
+200,Лобня,,18,18,3,F,37.0,married,True,True,False,False,True,True,False,True,False,False,7,4,2,0,15,4000
+201,Санкт-Петербург,м. Проспект Славы,13,12,3,F,59.0,married,True,True,False,True,True,False,False,False,False,False,11,4,2,3,19,3500
+202,Санкт-Петербург,м. Василеостровская,9,0,0,F,42.0,,,True,False,True,True,True,False,False,False,False,6,4,2,2,10,6000
+203,Москва,,7,7,1,F,31.0,,,True,False,False,True,False,False,False,False,False,6,4,1,3,7,5000
+204,Москва,м. Лубянка,16,0,0,F,59.0,,,True,False,False,True,False,False,False,False,False,6,4,1,3,10,4000
+205,Санкт-Петербург,м. Достоевская / Владимирская,11,12,4,M,,,,True,False,False,True,False,False,False,False,False,13,4,1,5,9,6000
+206,Москва,Преображенская площадь,7,7,3,M,48.0,married,True,True,False,True,True,False,False,False,False,False,8,4,2,6,14,3500
+207,Нижний Новгород,м. Горьковская,5,0,0,,43.0,,,True,False,False,True,False,False,False,False,False,3,4,1,2,13,5000
+208,Сочи,Адлер,6,7,2,F,38.0,married,True,True,False,False,True,True,False,False,False,False,5,4,1,6,16,3500
+209,Санкт-Петербург,м. Площадь Восстания,18,17,4,F,37.0,married,True,True,False,True,True,True,False,False,False,True,8,21,2,0,0,10000
+210,Санкт-Петербург,м. Парк Победы,4,4,1,F,46.0,married,True,True,False,False,True,False,False,False,False,False,8,6,3,2,8,3150
+211,Санкт-Петербург,,12,0,0,F,50.0,single,True,True,False,False,True,True,False,False,False,True,6,4,3,2,5,4000
+212,Сургут,,22,17,1,F,,,True,True,True,True,True,True,False,False,False,False,17,4,3,3,12,6300
+213,Тбилиси,Район Вера,5,2,1,F,36.0,married,True,True,False,False,True,False,False,False,False,False,7,4,1,2,7,4500
+214,Санкт-Петербург,м. Сенная Площадь,6,10,2,F,39.0,married,True,True,False,False,True,False,False,False,False,False,2,4,1,5,14,5000
+215,Москва,м. Калужская,18,0,0,F,39.0,married,True,True,False,False,True,False,False,False,False,False,4,4,2,7,8,5000
+216,Санкт-Петербург,м. Сенная площадь,4,0,0,,,,,True,False,True,True,False,False,False,False,True,3,4,2,0,10,3500
+217,Челябинск,,4,8,0,F,42.0,married,True,True,False,False,True,False,False,False,False,False,9,8,2,4,16,5000
+218,Москва,м. Новослободская,7,0,0,F,32.0,married,False,True,False,False,True,False,False,False,False,False,14,4,2,4,16,5500
+219,Санкт-Петербург,м. Петроградская,8,0,0,F,39.0,married,False,True,False,False,True,True,False,True,False,False,8,4,1,3,11,6000
+220,Москва,м. Чкаловская / Курская,7,6,1,F,33.0,,,True,True,False,True,True,False,False,False,False,5,4,1,3,8,3750
+221,Москва,м. Чистые пруды / Цветной бульвар / Третьяковская / Китай-город,6,0,0,F,32.0,single,False,True,False,False,True,False,False,False,False,False,4,4,2,6,12,4000
+222,Санкт-Петербург,,7,7,2,F,45.0,married,False,True,False,False,True,False,False,False,False,True,4,4,2,4,11,3500
+223,Санкт-Петербург,м. Озерки,13,12,2,F,41.0,,,True,True,False,True,True,False,True,False,True,8,4,1,5,13,5000
+224,Москва,м. Пушкинская,3,4,1,F,26.0,single,False,True,False,False,True,True,False,False,False,False,5,4,2,1,10,4000
+225,Москва,,8,9,2,M,52.0,married,True,True,False,True,True,False,False,False,False,False,6,4,1,1,9,10000
+226,Москва,м. Кропоткинская,14,0,0,F,50.0,,False,True,False,False,True,False,False,False,False,False,11,4,2,2,10,4500
+227,Анапа,,3,5,0,F,27.0,married,,True,True,False,False,True,False,False,False,False,6,13,2,4,11,2500
+228,Тбилиси,,14,0,0,M,33.0,single,False,True,False,False,True,False,False,False,False,False,7,11,1,5,13,4000
+229,Москва,м. Бауманская,5,4,2,F,43.0,single,,True,True,False,True,True,False,False,False,False,14,2,2,1,16,7000
+230,Москва,м. Сокольники,10,9,2,F,58.0,single,False,True,True,False,True,True,False,False,False,False,4,4,1,3,9,5000
+231,Кайяни,,11,0,0,M,,married,True,True,False,True,True,False,False,False,False,True,6,4,2,4,21,20000
+232,Москва,м. Парк Победы,4,6,1,F,38.0,single,False,True,False,False,True,False,False,False,False,False,7,15,1,8,15,5040
+233,Санкт-Петербург,м. Площадь Восстания,5,5,1,F,43.0,single,False,True,False,False,True,True,False,False,False,False,3,4,2,5,13,3000
+234,Санкт-Петербург,м. Технологический институт,13,13,1,F,32.0,,,True,False,True,True,True,False,False,False,False,18,4,2,6,13,8000
+235,Москва,м. Менделеевская,10,9,4,M,,single,False,True,False,True,True,True,False,False,False,False,7,3,1,1,12,4000
+236,Москва,м. Цветной бульвар,9,9,2,F,43.0,married,True,True,False,False,True,False,False,False,False,False,6,10,3,5,17,7500
+237,Санкт-Петербург,м. Технологический институт / Пушкинская / Фрунзенская,5,0,0,M,31.0,married,False,True,False,False,True,False,False,False,False,True,2,4,1,4,14,5000
+238,Санкт-Петербург,м. Петроградская,3,5,1,F,42.0,married,True,True,False,True,True,False,False,False,False,False,5,7,1,2,10,4000
+239,Санкт-Петербург,,12,10,2,F,44.0,married,False,True,False,False,True,False,False,False,False,False,6,4,3,2,11,4000
+240,Санкт-Петербург,м. Бухарестская,17,0,0,F,47.0,married,True,True,False,True,True,False,False,False,False,False,7,22,3,5,14,5000
+241,Минск,м. Ковальская Слобода,3,0,0,F,43.0,single,True,True,False,False,True,False,False,False,False,False,10,4,3,5,12,3500
+242,Москва,м. Тургеневская,13,12,4,F,57.0,married,True,True,False,False,True,False,True,False,False,True,5,4,2,3,14,4300
+243,Москва,,14,13,3,F,34.0,married,True,True,False,True,True,True,False,False,False,False,10,17,3,3,17,5500
+244,Москва,м. Третьяковская / Новокузнецкая,3,4,1,F,38.0,married,True,True,True,False,True,True,False,False,False,False,3,4,1,6,6,4000
+245,Москва,м. Менделеевская,6,6,1,M,51.0,single,False,True,False,False,True,False,False,False,False,False,3,4,2,1,8,3500
+246,Москва,,2,0,0,F,33.0,married,False,True,False,False,True,True,False,False,False,False,17,4,2,1,20,2900
+247,Москва,м. Марьина роща,17,16,2,F,47.0,,True,True,False,True,True,False,False,False,False,False,6,4,2,2,11,6500
+248,Липецк,,3,0,0,M,36.0,single,False,True,True,False,True,False,False,False,False,False,4,4,3,2,9,2850
+249,Тольятти,,11,10,2,F,43.0,married,,True,False,False,True,False,False,False,False,True,6,4,2,6,14,3500
+250,Москва,м. Чистые пруды / Сретенский бульвар / Тургеневская,12,0,0,M,58.0,single,True,True,False,False,True,False,False,False,False,False,6,4,2,2,11,4000
+251,Санкт-Петербург,м. Петроградская,7,0,0,M,30.0,married,False,True,False,True,True,False,False,False,False,True,9,4,2,8,14,4500
+252,Москва,м. Красные ворота / Чистые пруды; м. Новослободская / Менделеевская,5,5,1,F,35.0,married,False,True,True,False,True,False,False,False,False,False,4,4,1,6,11,4320
+253,Бали,,7,0,0,M,29.0,,False,True,False,False,True,False,False,False,False,False,3,3,1,1,13,5000
+254,Москва,,4,0,0,F,26.0,married,,False,False,False,True,False,False,False,False,True,9,15,3,6,10,3500
+255,Курск,,8,9,0,F,33.0,married,True,True,True,False,True,False,False,False,False,False,2,17,2,1,14,3000
+256,Самара,,12,14,1,F,50.0,married,True,True,False,False,True,False,False,False,False,True,2,4,1,2,11,3320
+257,Москва,м. Кузнецкий Мост / Лубянка,9,8,3,F,37.0,married,True,True,False,True,True,False,False,False,False,False,3,4,2,2,10,8640
+258,Санкт-Петербург,м. Гостиный двор,7,7,4,F,30.0,married,False,True,False,False,True,True,False,False,False,False,7,5,2,2,11,3500
+259,Владивосток,,3,5,1,F,31.0,married,False,True,False,True,True,False,False,False,False,True,4,4,1,2,9,7000
+260,Мурманск,,4,7,1,F,50.0,single,True,True,True,False,True,False,False,False,False,False,3,6,2,1,16,2500
+261,Санкт-Петербург,м. Петроградская,7,6,3,F,29.0,married,True,True,False,False,True,False,False,False,False,False,3,4,1,5,14,4000
+262,Санкт-Петербург,м. Петроградская,7,11,1,F,37.0,married,True,True,True,False,True,False,False,False,False,False,5,7,1,3,12,5000
+263,Москва,м. Электрозаводская,11,11,3,M,47.0,married,True,True,False,True,True,True,False,False,False,True,16,4,2,4,21,12000
+264,Самара,,12,12,3,F,37.0,married,True,True,False,False,True,False,True,False,False,False,3,3,1,4,17,5500
+265,Москва,м. Славянский бульвар / Пионерская,17,15,3,F,57.0,married,True,True,False,True,True,False,False,False,False,True,4,4,2,3,17,6000
+266,Москва,м. Краснопресненская,6,0,0,F,,,,True,False,False,True,True,False,False,False,False,10,4,2,2,10,4000
+267,Москва,м. Китай-город,15,16,2,F,52.0,married,False,True,False,False,True,True,False,False,False,True,8,11,2,2,15,5000
+268,Ярославль,,5,9,1,F,40.0,married,True,True,True,False,True,False,False,False,False,False,4,4,1,4,9,3000
+269,Санкт-Петербург,м. Проспект Большевиков,5,6,2,F,56.0,married,True,True,False,False,True,True,False,False,False,False,6,8,3,6,9,3000
+270,Киров,,21,20,4,M,43.0,,,True,False,True,True,False,False,False,False,False,6,4,3,4,14,7000
+271,Москва,м. Чеховская / Тверская / Пушкинская,11,12,4,F,35.0,married,False,False,False,True,True,True,False,False,False,False,10,4,1,4,15,6000
+272,Санкт-Петербург,м. Горьковская,16,0,0,F,,,,True,False,False,True,True,False,False,False,True,8,4,1,5,7,6000
+273,Страсбург,,3,7,0,F,38.0,married,False,True,True,False,True,True,False,False,False,True,14,12,6,7,9,4000
+274,Москва,м. Таганская,3,0,0,F,38.0,single,True,False,False,True,True,True,False,False,False,True,5,4,3,2,14,4000
+275,Любляна,,2,0,0,F,44.0,married,True,True,False,False,True,False,False,False,False,False,2,4,1,1,13,3000
+276,Москва,м. Славянский бульвар / Пионерская,13,13,3,F,37.0,married,True,True,False,False,True,False,False,False,False,True,5,14,2,7,15,3500
+277,Москва,м. Арбатская,7,5,4,F,46.0,married,True,True,False,False,True,False,False,False,False,False,7,4,1,1,12,4500
+278,Москва,м. Сухаревская / Новослободская / Менделеевская,6,0,0,F,38.0,married,True,True,False,False,True,False,False,False,False,False,11,4,4,1,13,6000
+279,Санкт-Петербург,,27,0,0,F,60.0,married,True,True,True,False,True,False,False,False,False,True,9,4,3,7,8,4000
+280,Минск,м. Академия наук,13,13,4,M,45.0,married,True,True,False,False,True,False,False,False,False,False,2,4,1,3,13,4000
+281,Санкт-Петербург,м. Сенная,13,0,0,F,39.0,,,True,False,False,True,True,False,False,False,True,4,4,2,3,8,4000
+282,Самара,м. Алабинская,10,10,4,M,43.0,married,True,True,False,False,True,False,False,False,False,False,9,4,1,1,13,3000
+283,Москва,м. Цветной Бульвар,14,14,3,F,37.0,single,False,True,False,False,True,False,True,False,False,False,9,4,2,5,12,6500
+284,Москва,м. Лубянка,2,2,0,F,,,,True,True,False,True,False,False,False,False,False,4,4,1,0,14,4100
+285,Симферополь,,17,6,1,F,43.0,married,True,True,True,False,True,False,False,False,False,True,6,11,3,2,11,2880
+286,Санкт-Петербург,,7,0,0,F,38.0,married,True,True,True,False,True,False,False,False,False,False,5,10,2,3,13,4000
+287,Москва,м. Белорусская,4,4,1,F,34.0,,,True,False,True,True,False,False,False,False,False,9,3,4,2,15,4000
+288,Москва,м. Таганская,5,6,2,F,37.0,married,True,True,False,True,True,True,False,False,False,False,12,4,2,1,12,2850
+289,Москва,м. Раменки,11,11,3,F,42.0,married,True,True,False,False,True,False,False,False,False,False,6,4,1,3,12,9000
+290,Тула,,7,0,0,M,56.0,married,True,True,False,True,True,False,False,False,False,False,9,4,1,5,10,4000
+291,Калининград,,2,2,1,M,46.0,single,True,True,False,False,True,True,False,False,False,False,7,4,1,2,15,2850
+292,Москва,,5,0,0,F,37.0,married,True,True,False,False,True,False,False,False,False,False,8,4,1,4,11,5000
+293,Москва,,6,0,0,F,39.0,married,True,True,False,False,True,False,False,False,False,False,5,4,2,3,11,5000
+294,Москва,м. Чистые пруды,26,26,1,F,57.0,,,True,False,False,True,False,False,False,False,True,10,4,2,4,15,5000
+295,Тамбов,,3,9,0,F,41.0,married,True,True,True,False,True,False,False,False,False,False,5,4,1,2,16,3800
+296,Москва,м. Курская,7,6,2,F,28.0,single,False,True,True,False,True,True,False,False,False,False,11,4,3,2,15,6000
+297,Санкт-Петербург,м. Проспект Большевиков,5,5,2,F,37.0,married,True,True,False,False,True,False,False,False,False,False,7,3,1,1,12,3800
+298,Москва,м. Трубная / Тургеневская,6,0,0,F,45.0,married,True,True,False,True,True,False,False,False,False,True,7,16,3,3,16,6000
+299,Москва,,2,3,0,F,27.0,single,False,True,False,False,True,False,False,False,False,False,2,5,1,0,8,3000
+300,Казань,,11,19,1,F,47.0,married,True,True,False,True,True,True,False,True,False,True,6,15,3,6,16,5500
+301,Москва,м. Китай-город,8,0,0,F,38.0,,,True,False,False,True,False,False,False,False,False,2,4,1,5,14,5040
+302,Москва,м. Краснопресненская,3,5,1,M,39.0,single,False,True,True,False,True,False,False,False,False,False,6,4,1,2,11,3600
+303,Москва,,3,0,0,F,44.0,married,True,True,True,False,True,False,False,False,False,True,6,4,1,4,15,2850
+304,Москва,м. Народное Ополчение,7,6,2,F,45.0,married,True,True,True,False,True,True,False,False,False,True,6,4,1,3,11,4000
+305,Ярославль,,7,9,1,F,55.0,married,True,True,False,True,True,False,False,False,False,False,6,4,1,5,18,3500
+306,Воронеж,,5,4,1,F,47.0,single,True,True,False,False,True,False,False,False,False,False,3,13,2,2,12,2600
+307,Москва,м. Пушкинская,7,0,0,F,34.0,,,True,False,False,True,False,False,False,False,True,4,4,2,6,12,6000
+308,Екатеринбург,,5,4,2,M,38.0,married,True,True,False,False,True,True,False,False,False,False,3,6,1,0,8,2790
+309,Санкт-Петербург,,3,5,1,F,29.0,married,True,True,True,False,True,True,False,False,False,False,10,15,1,1,10,2500
+310,Москва,м. Павелецкая,5,0,0,F,41.0,married,True,True,False,False,True,False,False,False,False,False,7,4,1,3,11,5000
+311,Таганрог,,14,14,1,F,38.0,,True,True,False,True,True,False,False,False,False,False,4,4,1,1,8,4000
+312,Москва,м. Менделеевская,5,0,0,F,38.0,single,False,True,True,False,True,False,False,False,False,False,4,4,1,2,11,4000
+313,Санкт-Петербург,м. Озерки,4,4,1,F,38.0,single,,True,True,False,True,False,False,False,False,False,7,4,1,2,9,4000
+314,Москва,м. Баррикадная / Улица 1905 года,5,5,1,F,38.0,married,True,True,False,False,True,True,False,False,False,False,7,7,1,5,10,4000
+315,Санкт-Петербург,м. Петроградская,15,12,2,F,50.0,married,True,True,False,True,True,False,False,False,False,False,18,15,3,6,12,5000
+316,Ростов-на-Дону,,9,9,0,M,46.0,married,,True,False,True,True,False,False,False,False,True,3,4,2,1,8,2000
+317,Москва,м. Таганская,15,0,0,F,34.0,single,False,True,False,False,True,False,False,False,False,False,12,9,1,2,16,5000
+318,Москва,м. Менделеевская,3,4,2,M,25.0,single,False,True,False,False,True,False,False,False,False,False,2,4,1,2,9,2500
+319,Москва,,3,6,1,F,42.0,married,False,True,False,True,True,True,False,False,False,False,7,4,1,1,16,3160
+320,Санкт-Петербург,м. Василеостровская,6,13,1,F,40.0,single,True,True,False,True,True,False,False,False,False,False,6,4,1,6,12,4000
+321,Москва,м. Кропоткинская,10,0,0,F,35.0,single,False,True,False,False,True,False,False,False,False,False,7,4,1,0,6,6000
+322,Санкт-Петербург,м. Петроградская,13,14,1,F,41.0,married,True,True,False,False,True,False,False,False,False,False,8,10,4,4,9,4800
+323,Москва,м. Цветной бульвар,13,0,0,M,51.0,married,True,True,True,False,True,False,False,False,False,True,4,3,1,4,14,4500
+324,Вологда,,12,0,0,F,35.0,,,True,False,False,True,False,False,False,False,False,9,4,3,4,16,4000
+325,Санкт-Петербург,м.Чернышевская,3,3,1,M,26.0,single,False,True,False,False,True,True,False,False,False,True,12,4,2,1,5,3000
+326,Москва,м. Китай-город / Лубянка,5,5,2,F,43.0,single,True,True,False,False,True,True,False,False,False,False,4,4,1,6,10,3500
+327,Москва,м. Китай-город,5,6,2,F,29.0,married,False,True,False,False,True,True,False,False,False,True,10,4,3,5,13,3500
+328,Санкт-Петербург,м. Гостиный двор,4,0,0,F,28.0,single,False,True,False,False,True,True,False,False,False,False,12,4,2,2,12,5000
+329,Москва,м. Тверская,4,7,1,F,40.0,,True,True,False,True,True,True,False,False,False,False,5,4,2,3,9,3330
+330,Москва,м. Пушкинская / Тверская,4,4,1,F,31.0,single,False,True,False,False,True,False,False,False,False,False,7,4,1,1,9,4000
+331,Калининград,,3,0,0,F,48.0,married,False,True,False,True,True,False,False,False,False,False,7,4,1,2,14,3900
+332,Москва,м. Бауманская,4,0,0,F,28.0,married,False,True,True,False,True,False,False,False,False,False,4,4,2,4,9,3500
+333,Тольятти,,5,6,4,F,30.0,married,False,True,False,False,True,False,False,False,False,False,5,4,1,0,0,2000
+334,Москва,м. Университет / Ломоносовский проспект,13,13,3,,37.0,,,True,False,False,True,True,False,False,False,False,6,4,1,7,16,4500
+335,Москва,,9,9,1,F,43.0,single,False,True,True,False,True,False,False,False,False,False,7,4,2,2,8,5000
+336,Воронеж,,7,6,2,F,37.0,married,False,True,False,False,True,False,False,False,False,False,6,4,1,5,7,3000
+337,Москва,м. Курская / Красные ворота / Тургеневская / Чистые пруды,13,0,0,F,53.0,married,True,True,False,False,True,True,False,False,False,True,6,4,2,6,12,4200
+338,Эйндховен,,14,14,3,F,36.0,single,False,True,False,False,True,False,False,False,False,False,4,7,1,4,11,6000
+339,Москва,м. Крылатское,14,14,1,F,35.0,married,True,True,True,False,True,False,False,False,False,False,3,4,1,2,16,4000
+340,Москва,м. Тимирязевская / Дмитровская,29,26,2,F,54.0,married,True,True,False,False,True,False,False,False,False,False,6,4,2,2,12,4000
+341,Москва,м. Баррикадная / Краснопресненская,10,0,0,F,39.0,married,True,True,False,False,True,False,False,False,False,True,2,4,1,3,10,5000
+342,Москва,г. Балашиха,4,5,1,F,28.0,single,False,True,False,False,True,True,False,True,False,True,5,12,1,6,15,7000
+343,Москва,м. Киевская,21,21,3,,,,,True,False,True,True,False,False,False,False,True,6,9,2,4,6,4000
+344,Санкт-Петербург,м. Невский проспект,5,4,2,M,33.0,,,True,False,True,True,True,False,False,False,False,8,4,1,6,15,3500
+345,Минск,"Грушевка, Немига",6,5,3,F,36.0,married,True,True,False,False,True,True,False,True,False,False,19,4,3,2,14,3500
+346,Хабаровск,,7,0,0,F,28.0,single,False,True,False,False,True,True,False,False,False,False,19,4,3,4,12,3500
+347,Санкт-Петербург,м. Петроградская,12,0,0,F,33.0,,,True,False,False,True,True,False,False,False,False,10,16,3,2,13,4500
+348,Алматы,,2,3,1,F,28.0,single,False,True,False,False,True,False,False,False,False,False,6,4,1,2,13,2200
+349,Москва,,4,3,1,F,37.0,single,True,True,False,False,True,False,False,False,False,False,10,4,3,3,9,2770
+350,Москва,м. Лубянка,10,10,1,F,53.0,married,True,True,False,False,True,False,False,False,False,False,2,4,1,5,11,3500
+351,Москва,,2,5,1,F,36.0,,,True,False,True,True,True,False,True,False,False,13,4,3,1,10,3000
+352,Москва,м. Менделеевская,6,6,1,M,37.0,married,True,False,False,False,True,False,False,False,False,False,4,4,1,2,7,3000
+353,Москва,,2,3,0,F,25.0,single,False,True,False,False,True,False,False,False,False,False,5,7,2,0,7,2250
+354,Москва,м. Новослободская; м. Менделеевская,15,11,3,F,36.0,married,True,True,False,True,True,False,False,False,False,False,17,17,4,3,16,4500
+355,Москва,м. Таганская; м. Арбатская,5,0,0,F,31.0,married,False,True,False,True,True,True,False,True,False,False,13,4,3,3,16,4000
+356,Санкт-Петербург,,2,2,1,F,27.0,married,False,True,True,False,True,False,False,False,False,False,5,4,1,0,12,2200
+357,Москва,,3,4,1,F,38.0,married,,True,False,False,True,False,False,False,False,False,5,4,3,1,13,2500
+358,Нижний Новгород,м. Горьковская,9,8,1,F,31.0,single,True,True,False,False,True,False,False,False,False,False,10,4,2,5,15,3500
+359,Санкт-Петербург,м. Гостиный Двор,5,7,4,F,28.0,,False,True,False,False,True,True,False,False,False,True,14,4,5,6,17,4000
+360,Москва,м. Кузнецкий мост,10,9,3,F,39.0,married,False,True,False,False,True,False,False,False,False,False,8,4,1,5,17,4000
+361,Санкт-Петербург,м. Сенная / Садовая / Спасская,8,9,3,F,46.0,single,True,True,False,False,True,False,False,False,False,True,3,4,1,1,13,4000
+362,Москва,м. Сухаревская,2,3,0,F,38.0,married,True,True,False,False,True,False,False,False,False,False,2,4,2,3,13,2200
+363,Москва,м. Белорусская,15,0,0,F,37.0,,,True,False,False,True,False,False,False,False,False,7,4,2,3,8,5500
+364,Сочи,Центральный район,15,15,2,F,37.0,single,True,True,False,True,True,False,False,False,False,False,7,15,2,4,14,4000
+365,Йошкар-Ола,,12,13,1,F,46.0,single,False,True,False,True,True,True,False,False,False,False,6,9,3,2,17,2200
+366,Санкт-Петербург,м. Владимирская / Достоевская,7,8,1,F,53.0,married,True,True,False,False,True,True,False,False,False,False,4,4,2,1,9,3850
+367,Москва,,3,0,0,F,36.0,married,True,True,True,False,True,False,False,False,False,False,7,6,1,2,16,3500
+368,Москва,м. Новокузнецкая,8,8,0,F,49.0,married,True,True,False,False,True,True,False,False,False,False,11,7,3,5,10,3000
+369,Сочи,,4,0,0,F,38.0,single,False,True,False,False,True,False,False,False,False,False,6,7,1,2,17,2850
+370,Москва,м. Бауманская,9,9,3,F,45.0,married,True,True,False,True,True,False,False,False,False,False,9,4,1,5,13,5000
+371,Санкт-Петербург,м. Сенная площадь,2,4,0,F,29.0,single,False,True,False,False,True,False,False,False,False,False,9,4,1,1,13,2200
+372,Санкт-Петербург,м. Пушкинская,10,0,0,F,32.0,single,False,True,False,False,True,False,False,False,False,False,5,3,2,1,20,4000
+373,Нижний Новгород,м. Горьковская,14,13,2,F,61.0,married,True,True,False,True,True,False,False,False,False,True,4,10,1,4,8,3300
+374,Москва,м. Достоевская,8,8,3,F,40.0,,,False,False,False,True,False,False,False,False,False,4,4,2,5,4,2850
+375,Санкт-Петербург,м. Сенная площадь,4,0,0,F,33.0,married,False,True,False,True,True,False,False,False,False,False,4,8,3,5,10,2000
+376,Москва,м. Сретенский бульвар,3,5,1,M,29.0,married,True,True,False,False,True,False,False,False,False,False,3,12,2,3,14,3000
+377,Москва,м. Таганская,3,0,0,F,,married,,True,False,False,True,True,False,False,False,False,10,4,2,1,14,4000
+378,Санкт-Петербург,м. Технологический институт,5,4,1,F,49.0,married,True,True,False,False,True,False,False,False,False,False,4,3,1,4,11,4000
+379,Москва,,5,0,0,F,54.0,married,True,True,False,True,True,False,False,False,False,True,4,4,2,0,10,5500
+380,Москва,м. Чистые пруды / Тургеневская / Сретенский бульвар / Красные ворота,30,30,3,F,54.0,married,True,True,False,True,True,True,False,False,False,True,15,18,1,5,12,5000
+381,Москва,м. Чистые пруды,13,0,0,M,35.0,married,False,True,False,False,True,False,False,False,False,False,6,4,2,5,13,4000
+382,Москва,,14,14,1,F,35.0,married,True,True,False,False,True,False,False,False,False,False,19,4,4,0,10,3000
+383,Москва,м. Баррикадная,13,0,0,F,39.0,married,True,True,False,False,True,True,False,False,False,False,7,4,3,2,14,3800
+384,Санкт-Петербург,м. Василеостровская / Спортивная,12,0,0,F,33.0,married,False,True,False,False,True,False,False,False,False,False,3,22,1,6,7,3500
+385,Москва,,4,0,0,F,32.0,married,False,True,False,False,True,True,False,False,False,False,12,4,3,1,10,5000
+386,Санкт-Петербург,м. Маяковская,14,0,0,F,36.0,married,True,True,False,False,True,False,False,False,False,False,3,4,1,1,7,3500
+387,Москва,м. Бауманская,6,5,3,F,36.0,married,False,False,False,False,True,False,False,False,False,False,5,4,3,2,12,4000
+388,Кострома,,18,6,2,F,39.0,single,False,True,True,False,True,True,False,False,False,False,4,7,1,3,7,2900
+389,Санкт-Петербург,м. Невский проспект,5,0,0,F,30.0,married,False,True,False,False,True,False,False,False,False,False,8,4,2,5,13,3750
+390,Москва,м. Чистые Пруды / Красные ворота,3,3,1,F,33.0,,,True,False,False,True,False,False,False,False,False,3,4,1,2,7,4030
+391,Москва,м. Китай-Город,6,6,1,F,31.0,married,False,True,False,False,True,False,False,False,False,False,3,4,1,1,10,3000
+392,Санкт-Петербург,,4,3,2,F,26.0,single,False,True,False,False,True,False,False,False,False,False,21,4,1,0,12,4000
+393,Москва,м. Чистые пруды / Сретенский бульвар,5,0,0,F,50.0,married,True,True,False,False,True,True,False,False,False,False,10,4,1,3,11,4320
+394,Москва,м. Бауманская,3,0,0,F,,married,False,True,False,False,True,True,False,False,False,False,10,4,3,2,8,4000
+395,Москва,м. Китай-Город / Лубянка,4,4,2,F,41.0,married,True,True,False,False,True,False,False,False,False,False,4,4,1,2,8,3500
+396,Москва,м. Китай-город; м. Славянский бульвар,7,0,0,F,53.0,married,True,True,False,True,True,False,False,False,False,True,9,8,2,2,13,3500
+397,Санкт-Петербург,м. Петроградская,5,5,2,F,28.0,married,False,True,False,False,True,True,False,False,False,False,7,4,1,3,12,5000
+398,Москва,м. Краснопресненская,19,0,0,F,40.0,single,False,True,False,False,True,False,False,False,False,True,6,4,2,2,11,5500
+399,Москва,,4,0,0,F,33.0,married,False,True,False,False,True,False,False,False,False,False,6,4,1,2,8,3500
+400,Симферополь,,3,0,0,F,31.0,married,True,True,True,False,True,False,False,False,False,False,2,4,1,2,12,3000
+401,Ярославль,,8,7,2,F,44.0,married,True,True,False,False,True,True,False,False,False,False,6,4,1,3,15,2500
+402,Москва,м. Краснопресненская,2,5,1,F,28.0,married,,True,True,True,True,True,False,False,False,True,5,21,2,3,14,3500
+403,Москва,м. Парк Культуры (радиальная),7,7,3,F,46.0,married,True,True,False,False,True,True,False,False,False,False,12,4,1,6,13,3000
+404,Краснодар,,2,2,0,F,40.0,married,True,True,False,False,True,False,False,False,False,False,6,8,2,2,13,2000
+405,Владикавказ,,8,12,0,F,34.0,married,True,True,False,True,True,False,False,False,False,True,4,15,3,5,16,3000
+406,Москва,м. Парк Победы,5,0,0,F,32.0,married,True,True,False,False,True,False,False,False,False,False,15,4,1,0,14,4000
+407,Саратов,,5,5,1,F,32.0,married,True,True,True,False,True,True,False,False,False,False,5,10,1,3,13,2500
+408,Москва,м. Чистые пруды,5,0,0,F,31.0,married,True,True,False,False,True,False,False,False,False,False,3,4,1,2,14,5000
+409,Москва,м. Новаторская,2,5,0,F,45.0,single,True,True,True,False,True,False,False,False,False,False,3,7,2,4,16,3200
+410,Москва,,5,0,0,F,36.0,,,True,False,False,True,False,True,False,False,True,3,12,2,5,18,4000
+411,Москва,м. Третьяковская,3,3,1,F,32.0,,,True,False,False,True,True,False,False,False,False,14,4,3,1,14,3500
+412,Санкт-Петербург,,2,0,0,F,40.0,single,,True,True,False,True,False,False,False,False,False,4,3,1,3,17,2200
+413,Чебоксары,,14,15,1,F,41.0,married,True,True,False,False,True,False,False,False,False,False,4,4,1,3,12,2900
+414,Москва,м. Тверская,14,15,1,F,46.0,married,True,True,True,False,True,False,False,False,False,True,8,12,3,6,7,5000
+415,Санкт-Петербург,м. Василеостровская,3,4,1,F,27.0,married,,True,True,False,True,True,False,False,False,False,5,4,1,3,13,3500
+416,Москва,м. Шаболовская,3,3,1,F,36.0,married,False,True,True,False,True,True,False,True,False,False,7,4,2,1,11,3000
+417,Пермь,,3,11,1,F,33.0,married,True,True,False,False,True,False,False,False,False,False,3,13,3,2,13,2500
+418,Москва,м. Планерная,15,14,3,F,45.0,single,True,True,False,True,True,True,False,False,False,False,11,4,4,1,15,4000
+419,Москва,м. Кузнецкий Мост,7,7,4,F,29.0,single,False,True,False,False,True,False,False,False,False,False,3,7,1,0,0,3500
+420,Москва,м. Баррикадная / Краснопресненская,8,7,2,F,42.0,single,True,True,False,True,True,True,False,True,False,False,7,14,2,4,9,3500
+421,Москва,м. Новокузнецкая,10,9,4,F,46.0,married,True,True,False,False,True,False,False,False,False,True,4,3,1,4,12,5000
+422,Томск,,3,0,0,F,26.0,single,False,True,False,False,True,False,False,False,False,False,10,4,1,0,10,3000
+423,Кемерово,,5,0,0,F,45.0,married,True,True,True,False,True,False,False,False,False,False,9,4,1,2,14,2600
+424,Москва,,5,0,0,F,43.0,married,True,True,False,False,True,False,False,False,False,True,11,4,1,2,9,5000
+425,Санкт-Петербург,м. Садовая / Сенная / Спасская,2,3,1,F,25.0,single,False,False,True,False,True,False,False,False,False,False,3,7,1,0,14,2200
+426,Москва,м.Ботанический сад/ м.Бабушкинская,12,0,0,F,50.0,married,True,True,False,True,True,False,False,False,False,True,8,4,3,4,16,4000
+427,Москва,,12,15,1,F,43.0,married,,True,True,False,True,False,False,False,False,False,3,7,1,5,14,4000
+428,Москва,м. Китай-город,3,6,1,F,,,,True,False,False,True,True,False,False,False,False,4,4,1,2,6,4320
+429,Калининград,,4,5,1,F,45.0,married,True,True,False,True,True,False,False,False,False,False,5,6,1,4,20,3000
+430,Санкт-Петербург,,7,10,2,M,34.0,married,False,True,False,False,True,True,False,False,False,True,6,4,1,5,12,3500
+431,Санкт-Петербург,,2,2,1,F,30.0,married,False,True,False,False,True,False,False,False,False,True,4,7,1,2,14,1500
+432,Москва,м. Китай-город,6,0,0,F,37.0,single,False,True,False,False,True,False,False,False,False,False,6,3,1,4,8,3500
+433,Санкт-Петербург,м. Московская,4,6,3,F,40.0,married,True,True,False,False,True,True,False,False,False,False,10,4,1,1,8,5500
+434,Москва,м. Таганская / Марксистская,11,0,0,F,41.0,married,True,True,False,False,True,True,False,False,False,True,3,4,1,6,12,4500
+435,Уфа,,4,9,1,F,36.0,single,False,True,False,False,True,True,False,False,False,False,10,4,3,2,15,3250
+436,Москва,м. Третьяковская,12,13,3,F,51.0,single,True,True,False,True,True,True,False,False,False,True,17,4,1,4,21,5500
+437,Москва,м. Таганская,8,9,2,F,35.0,single,True,True,False,False,True,False,False,False,False,False,21,4,2,0,7,5000
+438,Москва,м. Менделеевская,3,0,0,F,31.0,married,False,True,False,False,True,True,False,False,False,False,12,4,2,1,10,3500
+439,Санкт-Петербург,м. Владимирская / Достоевская,6,0,0,F,28.0,married,False,True,False,False,True,True,False,False,False,False,4,3,1,1,13,4000
+440,Москва,м. Строгино,12,0,0,F,43.0,married,True,True,False,True,True,False,True,False,False,True,8,4,1,3,9,10000
+441,Санкт-Петербург,м. Петроградская,3,4,1,F,39.0,married,True,False,False,False,True,False,False,False,False,False,8,4,2,1,11,3900
+442,Ростов-на-Дону,,17,18,0,M,42.0,married,True,True,False,False,True,False,False,False,False,False,4,4,1,1,7,3500
+443,Москва,м.Новокузнецкая,4,0,0,M,53.0,married,True,True,False,False,True,False,False,False,False,False,3,4,1,6,9,6000
+444,Москва,,7,0,0,F,46.0,married,True,True,False,False,True,True,False,False,False,False,6,14,2,3,16,3200
+445,Москва,м. Павелецкая,7,0,0,F,38.0,single,False,True,False,False,True,False,False,False,False,False,19,14,4,1,18,4000
+446,Санкт-Петербург,м. Чернышевская,4,0,0,M,39.0,married,True,True,True,False,True,False,False,False,False,False,3,4,1,3,8,2200
+447,Геттинген,,9,9,1,F,33.0,married,,True,False,False,True,False,True,False,False,False,6,4,2,1,14,4000
+448,Москва,м. Павелецкая,4,0,0,F,26.0,married,False,True,False,False,True,True,False,False,False,True,16,8,2,2,5,3000
+449,Москва,м. Таганская; м. Цветной бульвар,7,6,2,F,30.0,married,False,True,False,False,True,True,False,False,False,False,7,4,3,3,7,4700
+450,Москва,,3,5,1,F,29.0,married,True,True,False,False,True,True,False,False,False,False,5,4,2,1,10,3900
+451,Москва,м. Академическая,8,7,1,F,46.0,married,True,True,False,False,True,False,False,False,False,True,3,19,2,6,7,4500
+452,Сургут,,7,6,2,F,47.0,single,True,True,False,False,True,True,False,False,False,True,3,4,1,0,7,2000
+453,Санкт-Петербург,м. Чернышевская,3,3,1,F,27.0,,,True,True,False,True,False,False,False,False,False,16,4,2,3,15,4000
+454,Санкт-Петербург,м. Чернышевская; м. Ленинский проспект / Московская,7,6,3,F,38.0,married,True,True,False,False,True,True,False,True,False,False,7,3,1,3,10,4000
+455,Москва,м. Достоевская / Новослободская / Цветной Бульвар,9,10,2,F,39.0,married,True,True,False,True,True,False,False,False,False,False,5,4,1,4,6,4990
+456,Сочи,,2,3,0,F,35.0,married,True,True,False,False,True,False,False,False,False,False,3,6,1,3,11,1800
+457,Томск,,3,3,2,F,27.0,single,False,True,False,False,True,False,False,False,False,False,10,4,1,0,10,3000
+458,Санкт-Петербург,м. Сенная,14,0,0,F,,married,,True,False,False,True,False,False,False,False,True,4,3,1,3,18,3800
+459,Москва,м. Цветной бульвар; м. Достоевская,19,17,3,F,44.0,married,False,True,False,False,True,True,False,False,False,False,15,4,3,2,9,6000
+460,Москва,м. Чистые пруды,5,0,0,F,30.0,single,False,True,False,False,True,False,False,False,False,False,8,4,1,5,12,5000
+461,Калининград,,4,3,1,F,34.0,married,False,True,True,False,True,True,False,False,False,False,7,4,1,3,10,2500
+462,Санкт-Петербург,,4,0,0,F,28.0,married,False,True,False,True,True,True,False,False,False,False,13,18,3,1,17,2450
+463,Москва,,3,0,0,F,,,False,True,False,False,True,False,False,False,False,False,3,3,1,1,8,4000
+464,Москва,м. Сухаревская / Цветной бульвар,12,4,1,F,34.0,married,True,True,False,False,True,False,False,False,False,False,7,3,1,1,11,3000
+465,Москва,м. Смоленская / Кропоткинская,17,0,0,F,48.0,,,True,False,False,True,False,False,False,False,True,3,4,1,3,9,3500
+466,Санкт-Петербург,м. Балтийский Вокзал,5,5,3,F,43.0,married,True,True,False,False,True,True,False,False,False,False,5,3,1,5,9,3000
+467,Москва,м. Чистые пруды,5,4,1,F,46.0,married,True,True,False,True,True,True,False,False,False,False,4,4,2,3,17,6050
+468,Москва,м.Киевская,4,0,0,F,46.0,married,True,True,True,False,True,False,False,False,False,False,7,4,1,5,13,5472
+469,Москва,м. Баррикадная / Краснопресненская; м. Цветной бульвар,6,5,2,M,34.0,single,True,True,False,False,True,True,False,False,False,False,6,3,1,3,8,3000
+470,Тель-Авив,,8,8,4,F,33.0,single,False,True,False,False,True,True,False,False,False,False,11,4,4,3,18,5000
+471,Санкт-Петербург,м. Академическая,13,13,1,F,38.0,married,True,True,False,False,True,True,False,False,False,True,5,4,3,5,12,3000
+472,Санкт-Петербург,м. Гостиный двор,18,14,3,F,38.0,single,False,True,False,False,True,True,False,False,False,False,10,4,2,8,18,4000
+473,Екатеринбург,,4,0,0,F,41.0,married,True,True,False,False,True,False,False,False,False,False,3,4,1,1,10,2200
+474,Краснодар,,2,4,0,F,41.0,married,True,True,True,False,True,False,False,False,False,False,5,4,2,2,9,2200
+475,Москва,,2,2,0,F,29.0,single,False,True,False,False,True,False,False,False,False,False,2,4,1,2,18,2200
+476,Санкт-Петербург,м. Петроградская,5,0,0,F,31.0,married,False,True,False,False,True,False,False,False,False,False,8,7,2,3,11,5000
+477,Санкт-Петербург,м. Удельная / Пионерская,9,0,0,F,43.0,,False,True,False,False,True,False,False,False,False,True,4,4,1,2,9,2900
+478,Самара,,7,9,1,M,40.0,married,True,True,False,False,True,False,False,False,False,True,2,4,1,2,13,2500
+479,Краснодар,,2,3,0,F,47.0,married,True,True,False,False,True,False,False,False,False,False,3,4,2,5,14,2200
+480,Самара,,6,4,2,F,29.0,single,False,True,False,False,True,False,False,False,False,False,2,4,1,4,15,2700
+481,Москва,м. Маяковская,13,12,3,F,41.0,,False,True,False,False,True,True,False,False,False,False,7,4,1,5,12,5000
+482,Санкт-Петербург,,3,0,0,F,24.0,single,False,True,False,False,True,False,False,False,False,False,5,8,1,5,8,3500
+483,Москва,м. Смоленская / Парк Культуры,8,8,3,M,56.0,married,True,True,False,False,True,False,False,False,False,True,4,4,1,3,10,4000
+484,Уфа,,12,12,1,F,40.0,married,True,True,False,False,True,False,False,False,False,False,6,3,1,5,11,3000
+485,Петрозаводск,,25,11,1,M,45.0,,True,True,True,False,True,False,False,False,False,False,10,10,3,2,13,3000
+486,Москва,м. Кузнецкий мост,7,0,0,F,51.0,married,True,True,False,False,True,False,False,False,False,False,5,4,1,2,14,3500
+487,Москва,м. Пятницкое шоссе,12,9,2,F,46.0,married,True,True,False,True,True,True,False,False,False,True,7,4,1,2,19,5000
+488,Санкт-Петербург,м. Гостиный двор,19,23,3,F,57.0,single,True,True,True,False,True,False,False,False,False,False,7,4,2,3,11,15000
+489,Москва,,12,12,2,F,37.0,married,,True,False,True,True,False,False,False,False,False,7,4,1,1,11,6000
+490,Томск,,6,0,0,F,34.0,single,,True,False,False,True,True,False,False,False,False,6,3,2,5,14,3000
+491,Калининград,,2,3,1,F,26.0,married,False,True,False,False,True,False,False,False,False,False,3,4,2,4,10,1800
+492,Москва,м. Тверская,16,15,4,F,47.0,married,True,True,False,False,True,False,False,False,False,False,8,4,1,5,12,5000
+493,Санкт-Петербург,м. Чернышевская,9,0,0,F,51.0,married,True,True,False,False,True,False,False,False,False,True,7,4,2,2,7,2850
+494,Ростов-на-Дону,,17,0,0,F,49.0,married,True,True,True,False,True,False,False,False,False,False,4,4,1,1,9,4000
+495,Таганрог,,5,4,1,F,39.0,married,True,True,True,False,True,True,False,False,False,False,7,4,1,3,11,2500
+496,Пермь,Центр города,5,0,0,F,42.0,married,True,True,False,False,True,False,False,False,False,False,9,4,1,5,20,3000
+497,Краснодар,,2,0,0,F,41.0,married,True,True,False,False,True,False,False,False,False,False,7,16,3,3,17,2200
+498,Санкт-Петербург,,8,7,2,F,30.0,single,False,True,False,False,True,True,False,False,False,True,4,4,2,3,10,3000
+499,Санкт-Петербург,м. Площадь Восстания,13,0,0,F,33.0,married,False,True,False,True,True,False,False,False,False,False,8,4,3,5,15,4000
+500,Калининград,,4,8,1,F,36.0,married,,True,True,False,True,False,False,False,False,False,5,6,3,2,16,2000
+501,Москва,м. Краснопресненская,10,10,3,F,32.0,,,True,False,False,True,True,False,False,False,True,11,4,2,8,13,5000
+502,Санкт-Петербург,м. Маяковская / Площадь Восстания,8,6,4,M,39.0,married,False,True,False,False,True,False,False,False,False,False,4,4,1,1,16,3500
+503,Москва,м. Китай-город,5,0,0,F,30.0,married,False,True,False,False,True,True,False,False,False,False,5,4,1,0,10,2500
+504,Москва,м. Цветной бульвар,5,0,0,F,51.0,married,True,True,False,False,True,True,True,False,False,False,9,4,3,1,14,5000
+505,Москва,м. Цветной бульвар,4,5,0,M,44.0,married,True,True,True,False,True,False,False,False,False,True,4,4,1,3,11,2880
+506,Одинцово,Московская область,3,14,1,F,44.0,married,True,True,False,True,True,True,False,False,False,True,9,6,2,2,17,3500
+507,Санкт-Петербург,м. Петроградская,8,0,0,F,39.0,single,False,True,False,True,True,False,False,False,False,False,5,4,1,4,15,3500
+508,Москва,м. Сухаревская / Трубная / Цветной бульвар,7,6,3,F,42.0,married,,True,True,False,True,False,False,False,False,True,4,4,2,2,13,3500
+509,Москва,м. Китай-город,2,5,1,F,32.0,single,False,True,False,False,True,True,False,False,False,False,5,4,1,5,14,5000
+510,Самара,м. Российская,10,0,0,M,40.0,single,False,True,False,False,True,False,False,False,False,True,8,4,3,7,12,5000
+511,Москва,м. Белорусская,9,9,2,F,45.0,married,True,True,True,False,True,True,False,False,False,False,5,3,1,4,11,5000
+512,Москва,м. Третьяковская / Новокузнецкая,5,0,0,F,33.0,single,False,True,False,False,True,False,False,False,False,False,4,4,1,2,4,4000
+513,Ессентуки,,8,0,0,F,43.0,single,True,True,False,False,True,False,False,False,False,False,7,4,2,3,14,3600
+514,Москва,,3,3,1,F,35.0,married,False,True,False,False,True,True,False,False,False,False,21,3,4,5,12,4000
+515,Санкт-Петербург,м. Адмиралтейская,4,4,2,M,33.0,married,False,True,True,False,True,True,False,False,False,False,10,4,1,6,10,4000
+516,Москва,м. Арбатская,7,12,3,M,34.0,married,False,True,False,False,True,False,False,False,False,False,6,4,1,1,13,5000
+517,Санкт-Петербург,м. Чернышевская,8,10,3,F,46.0,married,True,True,False,False,True,False,False,False,False,False,3,4,2,4,12,4000
+518,Москва,м. Белорусская,4,0,0,F,35.0,,,True,True,False,True,False,False,False,False,False,3,4,2,3,19,3500
+519,Москва,м. Славянский бульвар,10,11,1,F,,,,True,False,False,True,True,False,False,False,False,12,18,3,5,13,4000
+520,Москва,м. Трубная,10,11,3,F,36.0,single,False,True,False,False,True,True,False,False,False,False,19,4,3,2,12,6000
+521,Москва,м. Шоссе Энтузиастов,12,11,3,M,34.0,married,True,True,False,True,True,False,False,False,False,False,6,4,1,1,10,6000
+522,Москва,м. Белорусская,8,0,0,F,52.0,married,True,True,False,False,True,True,False,False,False,True,4,11,2,5,13,4000
+523,Ижевск,,9,0,0,F,44.0,married,True,True,False,True,True,False,False,False,False,False,8,3,1,2,16,7000
+524,Москва,,9,11,0,F,46.0,married,False,True,False,False,True,False,False,False,False,False,2,4,2,1,8,3000
+525,Санкт-Петербург,м. Сенная площадь / Спасская,4,3,1,M,37.0,married,False,True,True,False,True,True,False,False,False,False,6,4,1,3,9,3500
+526,Санкт-Петербург,м. Площадь Восстания,6,7,1,F,,married,True,True,False,False,True,False,False,False,False,False,6,11,2,0,10,3000
+527,Санкт-Петербург,,3,4,1,F,30.0,single,False,True,True,False,True,False,False,False,False,True,6,4,2,5,9,4000
+528,Москва,,3,0,0,F,44.0,married,False,True,False,False,True,False,False,False,False,False,8,12,3,3,15,2800
+529,Москва,,4,0,0,M,36.0,married,False,True,False,False,True,False,False,False,False,True,2,7,1,2,9,2850
+530,Москва,м. Китай-город,2,3,1,F,36.0,,False,True,False,False,True,True,False,False,False,False,6,3,2,5,5,2220
+531,Санкт-Петербург,м. Петроградская,8,10,2,F,41.0,single,False,True,False,False,True,False,False,False,False,False,8,4,1,1,10,3500
+532,Москва,м. Проспект Мира,5,0,0,M,34.0,single,False,True,False,False,True,False,False,False,False,False,9,4,2,3,13,4000
+533,Лондон,,3,3,2,F,35.0,married,True,True,False,False,True,False,False,False,False,False,19,4,2,2,9,2800
+534,Орел,,7,0,0,F,44.0,married,True,True,False,False,True,False,False,False,False,False,11,4,1,4,14,2900
+535,Екатеринбург,,24,0,0,F,52.0,married,True,True,True,False,True,True,False,False,False,False,17,4,2,3,10,3500
+536,Санкт-Петербург,м. Площадь Восстания / Чернышевская,10,0,0,F,32.0,married,True,True,False,False,True,False,False,False,False,False,7,5,3,2,9,3000
+537,Москва,м. Кропоткинская,5,0,0,F,,,,True,False,False,True,False,False,False,False,True,10,3,1,2,13,3000
+538,Москва,,3,0,0,F,,single,True,True,False,False,True,False,False,False,False,False,5,6,2,1,14,3000
+539,Санкт-Петербург,м. Площадь Восстания,3,4,1,M,37.0,single,False,True,False,False,True,False,False,False,False,False,3,4,2,6,10,2500
+540,Курск,,6,7,1,M,43.0,married,True,True,False,True,True,True,False,True,False,False,12,10,3,1,8,3600
+541,Москва,,4,5,1,F,41.0,married,True,True,True,False,True,True,False,False,False,False,8,7,2,3,10,3000
+542,Воронеж,,7,10,1,F,32.0,married,True,True,False,False,True,True,False,False,False,False,5,4,2,5,12,2160
+543,Санкт-Петербург,,8,0,0,F,33.0,single,False,True,False,False,True,True,False,False,False,False,9,4,2,7,12,3000
+544,Санкт-Петербург,м. Площадь Восстания,9,0,0,F,54.0,married,True,True,True,False,True,False,False,False,False,False,7,4,2,3,16,4500
+545,Санкт-Петербург,"м. Гостиный двор, м. Чернышевская",12,0,0,F,49.0,married,True,True,False,False,True,False,False,False,False,False,8,4,1,1,15,3000
+546,Нижний Новгород,м. Горьковская,12,0,0,M,34.0,married,False,True,False,False,True,False,False,False,False,True,6,4,2,2,20,3000
+547,Ростов-на-Дону,,11,9,3,M,34.0,married,True,True,False,False,True,True,False,False,False,False,8,3,2,7,15,2500
+548,Томск,,4,3,2,M,29.0,single,False,True,False,False,True,False,False,False,False,False,2,4,1,2,14,3000
+549,Санкт-Петербург,м. Невский проспект,3,0,0,F,35.0,married,False,True,True,False,True,True,False,False,False,False,10,4,3,0,10,3500
+550,Москва,м. Курская,11,11,3,F,37.0,married,True,True,False,False,True,False,False,False,False,False,8,4,1,3,10,3000
+551,Санкт-Петербург,м. Площадь Восстания,3,0,0,F,36.0,single,False,True,True,False,True,False,False,False,False,False,3,4,1,5,11,3500
+552,Нижний Новгород,,11,13,0,F,43.0,married,True,True,False,False,True,False,False,False,False,False,4,8,1,4,14,3000
+553,Санкт-Петербург,м. Спортивная,9,9,2,F,32.0,married,False,True,False,False,True,True,False,False,False,False,10,4,1,3,9,3500
+554,Санкт-Петербург,м. Площадь Восстания; м. Сенная площадь / Садовая / Спасская,10,9,3,F,31.0,married,False,True,False,False,True,True,False,False,False,False,5,4,1,1,9,3500
+555,Санкт-Петербург,м. Невский проспект; м. Сенная,13,23,2,M,46.0,married,False,True,False,False,True,False,False,False,False,True,9,4,1,2,17,5000
+556,Москва,м. Китай-город,13,7,2,F,36.0,single,True,True,False,True,True,False,False,False,False,False,4,4,1,1,10,4000
+557,Санкт-Петербург,,4,0,0,F,27.0,married,False,True,False,False,True,True,False,False,False,False,7,4,1,2,11,3500
+558,Москва,м. Китай-город,8,10,1,F,33.0,,,True,False,False,True,True,False,False,False,False,8,4,2,4,5,4000
+559,Нетания,,7,7,1,F,39.0,married,True,True,False,False,True,True,False,True,False,False,14,12,3,1,11,4000
+560,Москва,,15,0,0,F,34.0,married,True,True,False,False,True,False,False,False,False,False,5,4,1,2,14,4320
+561,Москва,,5,0,0,F,36.0,married,False,True,False,False,True,False,False,False,False,False,6,6,1,5,10,3500
+562,Санкт-Петербург,,4,4,1,F,32.0,,False,True,True,False,True,False,False,False,False,False,5,4,1,2,9,3500
+563,Балашиха,мкр. Железнодорожный,6,5,3,M,49.0,married,True,True,False,False,True,False,False,False,False,True,10,4,3,6,14,4000
+564,Новосибирск,м. Октябрьское,5,4,2,F,37.0,married,True,True,False,False,True,False,False,False,False,False,6,4,1,2,6,3000
+565,Москва,м. Бауманская; м. Цветной бульвар,11,0,0,M,43.0,married,True,True,False,True,True,False,False,False,False,False,2,4,1,4,12,5500
+566,Санкт-Петербург,м. Ладожская,9,0,0,F,41.0,married,True,True,False,True,True,False,False,False,False,False,7,4,1,2,17,3500
+567,Москва,м. Цветной бульвар,8,7,4,F,44.0,married,True,True,False,False,True,False,False,False,False,True,3,3,1,1,7,3500
+568,Санкт-Петербург,м. Спортивная,2,2,1,F,27.0,single,False,True,True,False,True,False,False,False,False,False,4,4,1,4,8,2200
+569,Москва,,4,4,1,F,34.0,single,False,True,False,False,True,True,False,False,False,False,6,4,1,2,9,3500
+570,Москва,,6,5,0,F,34.0,married,True,True,True,False,True,False,False,False,False,False,8,4,2,2,9,2900
+571,Тбилиси,,7,6,1,M,30.0,married,False,True,True,False,True,False,False,False,False,True,5,4,1,4,19,3800
+572,Санкт-Петербург,м. Горьковская / Петроградская,13,0,0,F,,,,False,False,False,True,True,False,False,False,False,4,4,1,5,9,3000
+573,Москва,м. Достоевская,12,9,1,F,51.0,married,True,True,False,False,True,False,False,False,False,False,5,4,1,5,7,6000
+574,Санкт-Петербург,м. Невский проспект,6,0,0,F,40.0,married,True,True,False,False,True,True,False,False,False,True,8,4,1,5,13,4500
+575,Санкт-Петербург,м. Площадь Восстания,7,6,3,M,30.0,single,False,True,False,False,True,True,False,False,False,False,28,4,2,3,7,7500
+576,Минск,м. Академия Наук,5,0,0,F,47.0,single,True,True,False,False,True,False,False,False,False,False,4,3,2,3,17,4000
+577,Москва,м. Чистые пруды / Лубянка,11,13,0,F,39.0,single,False,False,False,False,True,False,False,False,False,False,12,4,4,1,5,3500
+578,Краснодар,,5,5,0,F,27.0,married,,True,True,False,True,False,False,False,False,False,8,4,2,2,13,2000
+579,Санкт-Петербург,м. Пролетарская,6,0,0,F,41.0,,,True,False,False,True,False,False,False,False,False,5,4,2,4,15,3000
+580,Москва,м. Новокузнецкая/Третьяковская,9,9,1,F,57.0,married,True,True,False,True,True,False,False,False,False,True,9,4,3,5,16,3500
+581,Москва,м. Нагатинская,5,6,1,F,37.0,married,True,True,True,False,True,True,False,False,False,False,8,4,2,5,9,3500
+582,Смоленск,,17,0,0,F,43.0,single,False,True,False,False,True,False,False,False,False,False,5,4,1,4,13,4470
+583,Москва,м. Третьяковская,12,10,3,F,41.0,married,True,True,False,False,True,False,False,False,False,False,4,4,1,4,11,4000
+584,Москва,м. Павелецкая,3,4,1,F,28.0,single,False,True,False,False,True,False,False,False,False,False,4,5,1,7,5,2500
+585,Москва,,2,3,0,F,26.0,married,False,True,False,True,True,False,True,False,False,True,3,10,3,2,14,2000
+586,Москва,,7,0,0,F,39.0,single,False,False,False,False,True,False,False,False,False,False,8,4,2,3,10,2850
+587,Калининград,,4,4,2,F,52.0,married,True,True,True,False,True,False,False,False,False,True,3,4,1,1,6,2000
+588,Москва,,6,6,1,F,42.0,single,True,True,True,False,True,False,False,False,False,False,5,4,1,4,12,3000
+589,Москва,м. Добрынинская / Октябрьская,18,17,3,F,50.0,married,True,True,False,False,True,False,False,False,False,False,22,4,1,4,8,7000
+590,Москва,м. Смоленская,7,6,3,F,42.0,married,True,True,False,False,True,False,False,False,False,False,6,4,3,2,11,5000
+591,Курск,,4,14,1,F,37.0,married,True,True,False,False,True,True,False,False,False,False,9,4,3,1,8,2600
+592,Севастополь,Гагаринский район,11,0,0,F,51.0,married,True,True,False,True,True,False,False,False,False,False,4,12,2,1,11,7500
+593,Москва,м. Профсоюзная,14,13,1,F,52.0,married,True,True,False,False,True,True,False,False,False,True,10,4,2,4,12,4500
+594,Хабаровск,,8,12,1,F,36.0,married,True,True,False,False,True,False,False,False,False,False,7,11,2,4,13,2750
+595,Смоленск,,4,0,0,F,43.0,single,True,True,False,True,True,False,False,False,False,True,4,11,2,5,10,4100
+596,Москва,,19,0,0,F,43.0,married,,True,False,True,True,True,False,False,False,True,6,4,1,3,14,2850
+597,Москва,м. Калитники,15,15,3,F,53.0,married,True,True,False,False,True,True,False,False,False,False,14,24,3,3,17,3500
+598,Екатеринбург,,2,0,0,F,46.0,married,,True,True,False,True,False,False,False,False,False,10,4,3,3,16,2500
+599,Санкт-Петербург,м. Академическая,19,16,3,M,48.0,married,False,True,False,False,True,True,False,False,False,False,5,4,1,4,11,4000
+600,Москва,м. Третьяковская / Новокузнецкая,25,0,0,F,50.0,married,True,True,False,False,True,False,False,False,False,False,9,4,3,2,13,4500
+601,Тверь,,8,7,2,F,49.0,married,True,True,False,False,True,True,False,False,False,False,5,4,1,1,13,2800
+602,Москва,м. Чистые пруды,5,5,2,F,30.0,married,False,True,False,False,True,True,False,False,False,False,4,3,1,2,8,4500
+603,Москва,,4,11,1,F,52.0,married,True,True,False,False,True,False,False,False,False,False,6,4,1,4,8,3700
+604,Чебоксары,,6,7,0,F,44.0,single,True,True,True,False,True,False,False,False,False,False,5,8,1,2,21,3000
+605,Москва,м. Китай-город / Лубянка,3,3,1,F,33.0,,,True,False,False,True,False,False,False,False,False,4,4,1,2,9,3700
+606,Санкт-Петербург,,3,0,0,F,34.0,single,True,True,False,True,True,False,False,False,False,True,8,12,4,6,19,2790
+607,Москва,,20,23,1,F,57.0,single,True,True,False,True,True,True,False,False,False,False,5,4,1,5,12,7760
+608,Москва,м. Китай-город / Чистые Пруды,7,0,0,F,37.0,single,False,True,True,False,True,True,False,False,False,False,7,4,1,1,11,4500
+609,Москва,м. Трубная / Цветной бульвар,8,10,2,F,48.0,married,True,True,True,False,True,True,False,False,False,True,4,3,1,5,12,4000
+610,Санкт-Петербург,м. Проспект Просвещения,6,0,0,M,41.0,married,True,True,True,False,True,False,False,False,False,False,5,4,2,3,4,5000
+611,Санкт-Петербург,,4,0,0,F,40.0,married,True,True,False,False,True,False,False,False,False,False,2,7,1,4,14,2850
+612,Москва,м. Краснопресненская,3,7,1,M,33.0,married,False,True,True,False,True,False,False,False,False,False,3,4,1,2,19,4000
+613,Воронеж,,7,9,1,F,,,,True,True,False,True,False,False,False,False,False,5,4,3,3,13,3400
+614,Москва,м. Красносельская,20,14,4,F,40.0,married,True,True,False,False,True,True,False,True,False,True,5,4,1,3,5,7000
+615,Воронеж,,8,5,3,F,36.0,married,True,True,False,True,True,True,False,False,False,False,15,5,1,1,15,2500
+616,Москва,м. Белорусская / Менделеевская,4,4,1,F,30.0,married,False,True,False,False,True,False,False,False,False,False,2,4,1,0,9,3000
+617,Санкт-Петербург,м. Фрунзенская,5,0,0,F,36.0,single,True,True,True,False,True,True,False,False,False,True,6,4,1,2,12,3500
+618,Ростов-на-Дону,,16,15,3,F,41.0,married,True,True,True,False,True,False,False,False,False,False,5,4,1,2,9,3000
+619,Санкт-Петербург,м. Горьковская;  м. Чернышевская,7,0,0,F,41.0,married,True,True,False,False,True,True,False,False,False,True,11,4,1,3,16,4000
+620,Москва,м. Трубная / Цветной бульвар,14,22,4,F,45.0,single,False,True,False,False,True,True,False,False,False,True,6,4,1,3,15,4000
+621,Ростов-на-Дону,,3,6,1,F,47.0,single,True,True,False,False,True,False,False,False,False,False,5,19,2,4,11,2500
+622,Санкт-Петербург,,8,0,0,F,33.0,married,True,True,False,False,True,False,False,False,False,True,10,8,2,5,20,3500
+623,Чианг Май,,6,5,2,M,34.0,single,False,True,False,False,True,False,False,False,False,True,7,4,4,2,12,4000
+624,Нижний Новгород,м. Горьковская,3,4,1,F,45.0,married,True,True,False,True,True,False,False,False,False,True,3,7,2,2,14,2000
+625,Москва,м. Кузнецкий мост / Трубная / Цветной бульвар,3,3,1,F,33.0,,,True,False,False,True,True,False,True,False,False,7,4,2,0,22,4000
+626,Санкт-Петербург,м. Лиговский проспект / Звенигородская / Владимирская,5,5,0,F,43.0,married,False,True,True,False,True,False,False,False,False,False,5,4,1,5,16,3000
+627,Санкт-Петербург,м. Василеостровская,7,0,0,M,40.0,,,True,False,True,True,True,False,False,False,False,4,4,3,6,14,5000
+628,Санкт-Петербург,м. Фрунзенская / Технологический институт,3,0,0,M,33.0,married,False,True,True,False,True,False,False,False,False,False,3,4,1,3,12,2770
+629,Санкт-Петербург,м. Маяковская / Площадь Восстания,10,8,3,F,30.0,married,False,True,False,True,True,False,False,False,False,False,18,4,5,6,20,3500
+630,Дубай,,7,7,3,F,44.0,married,,True,False,False,True,True,False,False,False,True,5,4,2,4,15,5000
+631,Санкт-Петербург,м. Петроградская,23,3,2,F,59.0,married,True,True,False,False,True,False,False,False,False,True,6,22,1,3,12,2800
+632,Москва,м. Чкаловская / Китай-город / Таганская,8,0,0,F,31.0,,,True,False,False,True,False,False,False,False,False,19,4,2,1,11,5000
+633,Москва,м. Боровицкая / Кропоткинская,15,0,0,F,38.0,married,True,True,False,False,True,False,False,False,False,False,15,4,1,1,12,7000
+634,Москва,м. Кропоткинская; м. Белорусская,5,5,1,F,43.0,married,True,True,False,True,True,True,False,False,False,False,15,4,3,1,18,5500
+635,Москва,,5,0,0,F,35.0,,,False,False,False,True,True,False,False,False,False,12,4,2,1,13,4000
+636,Москва,,19,0,0,F,45.0,married,True,True,False,False,True,False,False,False,False,False,3,4,1,1,1,4500
+637,Санкт-Петербург,м. Чернышевская,4,11,1,F,36.0,married,True,True,False,True,True,False,False,False,False,False,2,3,1,4,11,3330
+638,Москва,,8,12,1,F,39.0,married,True,False,False,True,True,True,False,False,False,False,3,4,1,1,13,4900
+639,Санкт-Петербург,,6,5,1,F,34.0,married,False,True,False,False,True,True,False,True,False,False,7,4,1,2,13,2850
+640,Минеральные Воды,,11,0,0,F,43.0,married,True,True,True,False,True,True,False,False,False,True,5,4,1,4,12,3000
+641,Валенсия,Ayora,6,0,0,F,42.0,married,False,True,False,False,True,False,False,False,False,False,5,3,1,0,14,6000
+642,Сургут,,16,16,0,F,53.0,married,True,True,False,False,True,False,False,False,False,True,3,7,1,4,8,2850
+643,Москва,м. Белорусская,8,9,1,F,30.0,single,False,True,False,False,True,True,False,False,False,False,6,4,1,1,15,3500
+644,Санкт-Петербург,м. Сенная площадь / Спасская / Садовая,7,6,2,F,40.0,single,True,True,False,False,True,True,False,False,False,False,3,4,1,2,11,3000
+645,Москва,,3,0,0,F,41.0,married,True,True,False,False,True,False,False,False,False,False,5,4,3,1,13,4500
+646,Санкт-Петербург,м. Площадь Восстания,6,7,0,F,31.0,married,False,True,False,False,True,True,False,False,False,False,9,4,2,4,12,3000
+647,Москва,м. Павелецкая,12,0,0,F,48.0,married,True,True,False,False,True,False,False,False,False,False,4,4,1,2,11,4500
+648,Москва,м. Академическая,4,0,0,F,55.0,married,True,True,False,True,True,False,False,False,False,True,5,10,2,6,18,5000
+649,Москва,м. Цветной бульвар,6,5,1,F,29.0,married,True,True,False,False,True,True,False,False,False,False,9,4,1,1,11,4500
+650,Москва,м. Чистые Пруды / Сретенский Бульвар / Тургеневская,5,0,0,F,34.0,single,False,True,False,False,True,True,False,False,False,False,7,4,2,3,15,5040
+651,Москва,м. Красные ворота,13,13,2,F,45.0,married,True,True,False,False,True,False,False,False,False,False,11,4,2,6,15,3000
+652,Санкт-Петербург,,5,6,1,F,33.0,married,True,True,True,False,True,False,False,False,False,False,17,4,3,5,12,5000
+653,Тбилиси,м. Улица Руставели,5,5,3,F,29.0,married,False,True,False,True,True,True,False,False,False,False,9,8,2,4,12,6000
+654,Торонто,,9,8,3,M,38.0,married,False,True,False,True,True,False,False,False,True,False,6,4,2,2,8,4500
+655,Калининград,,3,4,0,F,32.0,married,False,True,True,False,True,False,False,False,False,False,6,7,1,5,18,2850
+656,Москва,м. Китай-город,7,0,0,F,,,,True,False,False,True,True,False,False,False,False,8,4,1,3,11,7000
+657,Екатеринбург,,7,0,0,F,42.0,single,False,True,False,True,True,False,False,False,False,False,3,8,2,3,10,4500
+658,Санкт-Петербург,м. Гостиный двор,6,0,0,F,37.0,single,True,True,False,False,True,False,False,False,False,False,2,4,1,4,9,4000
+659,Ашдод,,5,4,3,F,28.0,married,False,True,False,False,True,False,False,False,False,False,9,4,1,2,15,4000
+660,Москва,,4,5,1,F,34.0,married,False,True,False,False,True,True,False,False,False,False,6,4,3,1,10,3500
+661,Санкт-Петербург,,9,10,1,F,55.0,married,True,True,False,True,True,False,False,False,False,False,7,4,1,2,17,5000
+662,Москва,Зеленоград,8,0,0,F,35.0,married,,True,False,False,True,False,False,False,False,False,8,4,1,5,9,4300
+663,Санкт-Петербург,м. Электросила,7,5,2,F,44.0,,,True,False,False,True,False,False,False,False,True,8,4,4,4,10,3500
+664,Москва,,7,6,2,F,52.0,,,True,True,False,True,True,False,False,False,False,6,3,1,3,10,5000
+665,Москва,м. Белорусская,2,0,0,F,27.0,single,False,True,True,False,True,False,False,False,False,False,2,6,1,3,12,1800
+666,Анталья,,11,9,2,F,33.0,,,True,False,False,True,False,False,False,False,True,10,4,3,6,9,5000
+667,Москва,м. Филевский парк,2,3,1,M,39.0,married,True,True,False,False,True,False,False,False,False,False,1,4,1,1,9,2020
+668,Санкт-Петербург,м. Чернышевская,6,0,0,F,29.0,single,False,True,False,False,True,True,False,False,False,False,4,4,1,1,16,4000
+669,Самара,,5,0,0,F,38.0,,,True,False,False,True,True,False,False,False,False,4,4,2,3,10,5000
+670,Санкт-Петербург,м. Невский Проспект,7,6,2,F,31.0,,,True,False,False,True,True,False,True,False,False,13,4,1,2,8,4000
+671,Санкт-Петербург,м. Владимирская / Достоевская / Маяковская,17,18,1,F,,,True,True,False,True,True,False,False,False,False,True,4,4,3,4,11,3000
+672,Липецк,,10,10,1,F,32.0,married,True,True,False,True,True,False,False,False,False,True,9,3,2,7,8,3000
+673,Москва,м. Арбатская,2,3,0,F,24.0,single,False,True,True,False,True,False,False,False,False,False,2,7,1,1,9,2200
+674,Москва,,2,0,0,F,35.0,married,True,False,True,False,True,False,False,False,False,False,3,4,1,0,10,1500
+675,Москва,м. Тверская / Пушкинская / Чеховская,9,0,0,,,,,True,False,False,True,False,False,False,False,True,2,4,1,7,7,6500
+676,Москва,м. Пролетарская,5,3,2,M,37.0,married,False,True,False,False,True,True,False,False,False,False,3,3,1,6,9,3000
+677,Санкт-Петербург,м. Новочеркасская,21,22,1,F,50.0,married,False,True,True,False,True,True,False,False,False,False,6,4,1,2,8,4800
+678,Москва,онлайн,5,5,2,F,33.0,married,False,True,True,False,True,False,False,False,False,False,20,4,2,1,16,4500
+679,Санкт-Петербург,м. Спасская,8,0,0,F,43.0,single,True,True,False,False,True,False,False,False,False,False,6,4,1,2,10,3000
+680,Санкт-Петербург,м. Ленинский проспект,12,10,2,F,43.0,single,,True,False,True,True,False,False,False,False,False,13,4,3,3,10,5000
+681,Димитровград,,8,15,1,F,38.0,married,False,True,False,True,True,False,False,False,False,False,8,4,2,1,13,4000
+682,Москва,м. Сухаревская / Трубная / Цветной бульвар,2,3,0,F,38.0,married,False,True,False,False,True,False,False,False,False,False,9,7,4,2,9,2200
+683,Санкт-Петербург,м. Площадь Восстания,14,13,3,F,,,,True,False,False,True,False,False,False,False,False,3,4,2,3,11,3500
+684,Санкт-Петербург,м. Площадь Восстания,18,14,3,F,39.0,single,True,True,False,False,True,False,False,False,False,False,6,12,2,5,13,2800
+685,Калининград,,8,0,0,F,45.0,single,True,True,True,False,True,False,False,False,False,False,6,4,1,5,17,3000
+686,Санкт-Петербург,м. Спасская / Сенная / Садовая,6,6,2,F,34.0,married,False,True,False,False,True,True,False,True,False,False,9,4,2,3,10,3500
+687,Санкт-Петербург,м. Чкаловская,5,0,0,F,36.0,single,False,True,False,False,True,False,False,False,False,False,3,4,1,2,8,3000
+688,Санкт-Петербург,,5,2,1,F,32.0,single,False,True,False,False,True,True,False,False,False,True,5,4,1,3,10,1880
+689,Тольятти,,13,12,1,F,37.0,married,True,False,False,True,True,True,False,False,False,False,7,8,2,2,15,2000
+690,Санкт-Петербург,м. Чкаловская,7,0,0,F,32.0,married,True,True,True,False,True,False,False,False,False,True,7,8,1,6,13,3500
+691,Москва,м. Китай-город,4,7,0,F,41.0,married,True,True,False,False,True,True,False,False,False,False,11,7,4,2,11,4000
+692,Санкт-Петербург,,7,0,0,F,43.0,married,True,True,True,False,True,True,False,False,False,False,11,7,2,3,15,3000
+693,Москва,,7,0,0,F,31.0,married,False,True,False,False,True,False,False,False,False,False,9,4,4,3,10,6000
+694,Санкт-Петербург,,8,8,1,F,34.0,,,True,False,False,True,False,False,False,False,False,2,4,1,7,11,2770
+695,Санкт-Петербург,м. Владимирская,13,19,1,F,39.0,married,True,True,False,False,True,True,False,True,False,True,10,4,2,3,13,4000
+696,Москва,м. Октябрьское Поле,7,7,4,M,29.0,married,False,True,False,True,True,False,False,False,False,True,11,4,4,7,14,5500
+697,Ставрополь,,5,4,1,F,26.0,single,False,True,False,False,True,False,False,False,False,False,8,7,2,2,7,2500
+698,Москва,,16,13,1,F,44.0,married,True,True,True,False,True,False,False,False,False,False,4,4,1,2,16,4100
+699,Санкт-Петербург,м. Сенная / Садовая / Спасская,6,0,0,F,39.0,married,True,True,False,False,True,True,False,False,False,False,11,15,2,5,15,3300
+700,Ростов-на-Дону,,11,0,0,F,45.0,,,True,False,False,True,True,False,False,False,False,15,4,2,5,10,4000
+701,Москва,м. Тверская / Пушкинская / Чеховская,7,0,0,M,49.0,married,True,True,False,False,True,False,False,False,False,False,5,4,1,1,7,5000
+702,Санкт-Петербург,,4,8,1,F,34.0,married,False,True,False,False,True,True,False,True,False,False,8,4,2,5,12,2200
+703,Санкт-Петербург,м. Адмиралтейская,3,0,0,F,29.0,single,False,True,False,False,True,False,False,False,False,False,5,8,1,8,12,3000
+704,Валенсия,,13,13,3,F,34.0,,True,False,False,False,True,False,False,False,False,False,4,4,1,2,7,4500
+705,Ростов-на-Дону,,2,11,1,M,30.0,married,False,True,False,False,True,False,False,False,False,False,7,4,2,6,15,2200
+706,Санкт-Петербург,пос. Парголово,7,5,2,F,48.0,married,True,True,False,False,True,False,False,False,False,True,4,21,2,2,14,3500
+707,Москва,м. Профсоюзная / Университет,15,13,3,,,,,True,False,False,True,False,False,False,False,False,3,3,1,1,14,3500
+708,Саратов,,3,5,0,F,44.0,married,,True,True,False,True,False,False,False,False,True,12,9,4,5,17,2390
+709,Санкт-Петербург,м. Сенная,6,5,2,F,30.0,single,False,True,False,False,True,True,False,False,False,False,7,4,3,4,8,4500
+710,Москва,м. Кузнецкий Мост,4,0,0,F,31.0,married,False,True,False,False,True,True,False,False,False,False,4,4,1,2,12,3500
+711,Москва,м. Цветной бульвар / Сухаревская,3,34,1,F,34.0,single,True,True,False,False,True,False,False,False,False,False,5,4,2,2,9,3900
+712,Москва,м. Трубная / Цветной бульвар,8,9,2,F,30.0,single,False,True,False,False,True,False,False,False,False,False,13,4,2,4,14,6000
+713,Великий Новгород,,4,0,0,F,35.0,married,True,True,True,False,True,True,False,False,False,False,8,4,1,2,7,2850
+714,Москва,,3,3,0,F,47.0,married,True,True,False,False,True,False,False,False,False,False,5,4,2,0,13,2500
+715,Санкт-Петербург,м. Новочеркасская,6,6,3,F,43.0,married,True,True,False,False,True,True,False,False,False,False,9,4,1,2,12,3500
+716,Москва,м. Менделеевская / Новослободская,6,5,1,F,33.0,single,False,True,False,False,True,True,False,False,False,False,11,4,1,4,15,7000
+717,Краснодар,,8,0,0,F,47.0,single,True,True,False,False,True,False,False,False,False,False,4,4,1,6,13,2500
+718,Санкт-Петербург,м. Василеостровская,15,0,0,F,,married,True,True,False,False,True,False,False,False,False,False,7,4,2,0,7,4500
+719,Москва,м. Парк Победы,15,14,2,F,38.0,,,True,False,False,True,True,False,False,False,False,4,4,1,1,8,4000
+720,Санкт-Петербург,,4,0,0,F,27.0,single,False,True,False,False,True,True,False,False,False,False,4,4,2,4,9,2800
+721,Москва,м. Спортивная,11,0,0,F,44.0,single,True,True,False,False,True,False,False,False,False,True,11,4,1,5,13,7000
+722,Москва,,8,11,2,F,34.0,married,True,True,True,False,True,False,False,False,False,False,5,4,1,2,11,3500
+723,Москва,м. Баррикадная,13,0,0,F,45.0,,,True,False,True,True,False,False,False,False,False,8,10,4,2,12,7000
+724,Санкт-Петербург,м. Петроградская,3,3,1,F,36.0,married,True,True,True,False,True,True,False,False,False,True,7,4,1,2,16,2800
+725,Белгород,,13,12,2,F,33.0,,True,True,False,True,True,False,False,False,False,False,8,4,2,3,15,2700
+726,Москва,м. Менделеевская,5,0,0,F,51.0,married,True,False,False,False,True,False,False,False,False,False,3,4,1,2,14,3000
+727,Санкт-Петербург,м. Петроградская,7,6,2,F,30.0,single,False,True,False,False,True,True,False,False,False,False,15,4,2,1,11,3000
+728,Санкт-Петербург,м. Звенигородская; м. Невский проспект,5,5,1,F,43.0,married,True,True,True,False,True,False,False,False,False,False,7,13,2,3,13,3200
+729,Москва,м. Китай-город,4,0,0,F,33.0,single,False,True,False,False,True,True,False,False,False,False,4,4,1,8,9,3600
+730,Москва,,12,10,1,F,49.0,married,True,True,False,True,True,True,False,False,False,False,22,4,3,3,9,4000
+731,Москва,м. Бауманская,3,5,1,M,36.0,married,True,True,True,False,True,False,False,False,False,False,8,4,1,1,18,4000
+732,Санкт-Петербург,м. Площадь Восстания,6,0,0,F,32.0,married,False,True,True,False,True,False,False,False,False,False,6,4,1,1,9,4200
+733,Москва,м. Белорусская,13,13,3,M,41.0,married,True,False,False,True,True,False,False,False,False,False,7,4,3,3,14,12000
+734,Москва,,2,0,0,F,45.0,,True,True,True,False,True,True,False,False,False,False,5,4,1,2,10,2200
+735,Москва,,11,0,0,F,46.0,married,True,True,True,False,True,False,False,False,False,False,9,4,1,2,2,4000
+736,Благовещенск,,6,6,2,F,33.0,married,False,True,False,False,True,True,False,False,False,False,6,4,1,1,15,2500
+737,Санкт-Петербург,м. Сенная / Садовая / Спасская / Пушкинская,6,7,3,F,37.0,married,True,True,False,False,True,False,False,False,False,False,10,4,2,1,9,5000
+738,Воронеж,,6,5,1,M,31.0,married,True,True,True,False,True,True,False,True,False,False,16,4,3,1,12,3950
+739,Москва,м. Достоевская,9,9,2,M,36.0,married,True,False,False,False,True,False,False,False,False,True,6,8,1,3,16,4000
+740,Самара,,8,10,3,F,37.0,single,True,True,False,False,True,True,False,False,False,False,4,4,1,3,14,5800
+741,Санкт-Петербург,м. Маяковская / Владимирская,5,0,0,M,42.0,,,True,False,False,True,True,False,False,False,False,4,4,2,3,7,4000
+742,Алматы,,2,3,1,F,31.0,married,True,True,False,False,True,True,False,False,False,False,6,4,2,4,9,2200
+743,Санкт-Петербург,м. Невский проспект,9,9,3,F,,married,True,True,False,False,True,False,False,False,False,False,9,4,2,1,5,4000
+744,Тверь,,5,0,0,F,39.0,single,True,True,False,False,True,True,False,False,False,True,7,4,1,2,9,2500
+745,Будва,,10,11,2,F,45.0,,,True,False,True,True,True,False,False,False,False,28,4,2,4,12,4000
+746,Севастополь,,4,3,0,M,40.0,married,True,True,True,False,True,False,False,False,False,False,3,4,1,2,12,3000
+747,Ангарск,,4,6,1,M,50.0,married,True,True,False,False,True,False,False,False,False,False,4,4,2,2,8,1800
+748,Екатеринбург,,2,0,0,F,34.0,married,True,True,False,False,True,False,False,False,False,False,2,4,1,2,14,2200
+749,Москва,,5,5,1,F,27.0,married,False,True,False,False,True,False,False,False,False,False,7,4,2,2,10,3500
+750,Москва,м. Таганская,6,0,0,F,40.0,married,True,True,False,False,True,False,False,False,False,False,6,4,3,1,8,5000
