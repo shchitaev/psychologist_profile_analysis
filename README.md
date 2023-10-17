@@ -29,9 +29,9 @@ C помощью веб-скрепинга сервиса https://alter.ru/ бы
 
 Распределение данных и значения для различных категориальных переменных. Ниже приведены некоторые EDA:
 
-![alt text]('https://github.com/shchitaev/psychologist_profile_analysis/alter/alter_scatterplot_experience_price.png' "alter_scatterplot_experience_price")
-![alt text]('https://github.com/shchitaev/psychologist_profile_analysis/alter/alter_distribution_plots.png' "Alter distribution plots")
-![alt text]('https://github.com/shchitaev/psychologist_profile_analysis/alter/alter_distribution_of_price_scatterplot.png' "alter_distribution_of_price_scatterplot.png")
-![alt text]('https://github.com/shchitaev/psychologist_profile_analysis/alter/alter_correlation_matrix.png' "alter_correlation_matrix.png")
+![alt text]('https://github.com/shchitaev/psychologist_profile_analysis/blob/main/alter/alter_scatterplot_experience_price.png' "alter_scatterplot_experience_price")
+![alt text]('https://github.com/shchitaev/psychologist_profile_analysis/blob/main/alter/alter_distribution_plots.png' "Alter distribution plots")
+![alt text]('https://github.com/shchitaev/psychologist_profile_analysis/blob/main/alter/alter_distribution_of_price_scatterplot.png' "alter_distribution_of_price_scatterplot.png")
+![alt text]('https://github.com/shchitaev/psychologist_profile_analysis/blob/main/alter/alter_correlation_matrix.png' "alter_correlation_matrix.png")
 
 
