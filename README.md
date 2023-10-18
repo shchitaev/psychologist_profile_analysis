@@ -1,5 +1,5 @@
 # psychologist_profile_analysis
-Проект по анализу профилей психологов представляет собой комплексное исследование данных, направленное на анализ и понимание профессиональных характеристик и компетенций психологов. 
+Проект по анализу профилей психологов, направленное на анализ и понимание профессиональных характеристик и компетенций психологов. 
 
 ## Alter
 
@@ -34,4 +34,37 @@ C помощью веб-скрепинга сервиса https://alter.ru/ бы
 ![](https://github.com/shchitaev/psychologist_profile_analysis/blob/main/alter/alter_distribution_of_price_scatterplot.png?raw=true)
 ![](https://github.com/shchitaev/psychologist_profile_analysis/blob/main/alter/alter_correlation_matrix.png?raw=true)
 
+## Youtalk 
+
+C помощью веб-скрепинга сервиса https://youtalk.ru был собран датасет со следующими признаками и обработан в youtalk_cleaning.ipynb:
+
+*	gender
+*	self_appointment
+*	messages
+*	video
+*	audio
+*	individual
+*	family
+*	sync_messages
+*	features
+*	friendliness
+*	lgbtq
+*	start_of_practice
+*	educations
+*	approaches
+*	professions
+*	work_areas
+*	non_working_areas
+*	english
+*	experience
+*	profession
+*	age
+*	education_counts
+
+Распределение данных и значения для различных категориальных переменных. Ниже приведены некоторые EDA:
+
+![](https://github.com/shchitaev/psychologist_profile_analysis/blob/main/youtalk/youtalk_distribution_plots.png?raw=true)
+![](https://github.com/shchitaev/psychologist_profile_analysis/blob/main/youtalk/youtalk_boxplots.png?raw=true)
+![](https://github.com/shchitaev/psychologist_profile_analysis/blob/main/youtalk/youtalk_gender.png?raw=true)
+![](https://github.com/shchitaev/psychologist_profile_analysis/blob/main/youtalk/youtalk_correlation_matrix.png?raw=true)
 
