@@ -65,6 +65,5 @@ C помощью веб-скрепинга сервиса https://youtalk.ru б�
 
 ![](https://github.com/shchitaev/psychologist_profile_analysis/blob/main/youtalk/youtalk_distribution_plots.png?raw=true)
 ![](https://github.com/shchitaev/psychologist_profile_analysis/blob/main/youtalk/youtalk_boxplots.png?raw=true)
-![](https://github.com/shchitaev/psychologist_profile_analysis/blob/main/youtalk/youtalk_gender.png?raw=true)
 ![](https://github.com/shchitaev/psychologist_profile_analysis/blob/main/youtalk/youtalk_correlation_matrix.png?raw=true)
 
